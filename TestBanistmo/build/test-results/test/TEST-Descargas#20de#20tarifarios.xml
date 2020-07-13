@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Descargas de tarifarios" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-13T14:39:06" hostname="CPX-8H94UR9QNFZ" time="40.434">
+  <properties/>
+  <testcase name="Descarga de tarifario cuentas deposito exitoso" classname="Descargas de tarifarios" time="40.434">
+    <failure message="org.junit.ComparisonFailure: expected:&lt;[data:,]&gt; but was:&lt;[https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&amp;CVID=n8g171g]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[data:,]&gt; but was:&lt;[https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&amp;CVID=n8g171g]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at co.com.miprueba.test.stepdefinitions.DescargaDeTarifariosStepDefinitions.elUsuarioDeberiaVerQueSeDescargoCorrectamente(DescargaDeTarifariosStepDefinitions.java:50)
+	at ✽.el usuario deberia ver que se descargo correctamente(src/test/resources/features/descargas_de_tarifarios.feature:12)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 30932
+Only local connections are allowed.
+[1594651154.268][WARNING]: Timed out connecting to Chrome, retrying...
+Jul 13, 2020 9:39:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Jul 13, 2020 9:39:17 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --incognito, --enable-automation, --test-type], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 38294
+Only local connections are allowed.
+[1594651164.081][WARNING]: Timed out connecting to Chrome, retrying...
+Jul 13, 2020 9:39:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED: Descarga de tarifario cuentas deposito exitoso
+--------------------------------------------------------------------------?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Then el usuario deberia ver que se descargo correctamente?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - expected:<[data:,]> but was:<[https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&CVID=n8g171g]>
+]]></system-err>
+</testsuite>
