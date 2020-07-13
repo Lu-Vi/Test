@@ -28,11 +28,7 @@ public class DescargaDeTarifariosStepDefinitions {
     public void configuracionInicial() {
         OnStage.setTheStage(new OnlineCast());
     }
-    //serenity bdd crea el sted definition sabe que es de tipo pageobject entonces lo instancia inmediatament
-    //las que son stage el sabe que
-    //serenity bdd instancia automatizamente el pageobject
-
-    //T-> Genericos..
+  
 
     @Given("^el usuario ingresa a la pagina de Banistmo$")
     public void elUsuarioIngresaALaPaginaDeBanistmo() {

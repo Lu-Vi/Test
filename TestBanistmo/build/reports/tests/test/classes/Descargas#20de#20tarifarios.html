@@ -29,7 +29,7 @@
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">1</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">40.434s</div>
+<div class="counter">28.429s</div>
 <p>duration</p>
 </div>
 </td>
@@ -50,8 +50,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">0%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -61,31 +61,16 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
+<a href="#tab0">Tests</a>
 </li>
 <li>
-<a href="#tab1">Tests</a>
+<a href="#tab1">Standard output</a>
 </li>
 <li>
 <a href="#tab2">Standard error</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="Descarga de tarifario cuentas deposito exitoso"></a>
-<h3 class="failures">Descarga de tarifario cuentas deposito exitoso</h3>
-<span class="code">
-<pre>org.junit.ComparisonFailure: expected:&lt;[data:,]&gt; but was:&lt;[https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&amp;CVID=n8g171g]&gt;
-	at org.junit.Assert.assertEquals(Assert.java:115)
-	at org.junit.Assert.assertEquals(Assert.java:144)
-	at co.com.miprueba.test.stepdefinitions.DescargaDeTarifariosStepDefinitions.elUsuarioDeberiaVerQueSeDescargoCorrectamente(DescargaDeTarifariosStepDefinitions.java:50)
-	at ✽.el usuario deberia ver que se descargo correctamente(src/test/resources/features/descargas_de_tarifarios.feature:12)
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -96,41 +81,41 @@
 </tr>
 </thead>
 <tr>
-<td class="failures">Descarga de tarifario cuentas deposito exitoso</td>
-<td class="failures">40.434s</td>
-<td class="failures">failed</td>
+<td class="success">Descarga de tarifario cuentas deposito exitoso</td>
+<td class="success">28.429s</td>
+<td class="success">passed</td>
 </tr>
 </table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>No se pudo validar la comparacion de las ventanas
+</pre>
+</span>
 </div>
 <div id="tab2" class="tab">
 <h2>Standard error</h2>
 <span class="code">
-<pre>Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 30932
-Only local connections are allowed.
-[1594651154.268][WARNING]: Timed out connecting to Chrome, retrying...
-Jul 13, 2020 9:39:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-Jul 13, 2020 9:39:17 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+<pre>Jul 13, 2020 9:58:21 AM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --incognito, --enable-automation, --test-type], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 38294
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 12325
 Only local connections are allowed.
-[1594651164.081][WARNING]: Timed out connecting to Chrome, retrying...
-Jul 13, 2020 9:39:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1594652309.245][WARNING]: Timed out connecting to Chrome, retrying...
+Jul 13, 2020 9:58:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
-           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
-  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
- (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
-  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
- (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
-          \_\                                                            
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
 
-TEST FAILED: Descarga de tarifario cuentas deposito exitoso
---------------------------------------------------------------------------?[0m
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Then el usuario deberia ver que se descargo correctamente?[0m
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - expected:&lt;[data:,]&gt; but was:&lt;[https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&amp;CVID=n8g171g]&gt;
+TEST PASSED: Descarga de tarifario cuentas deposito exitoso
+----------------------------------------------------------------------------?[0m
 </pre>
 </span>
 </div>
@@ -142,7 +127,7 @@ TEST FAILED: Descarga de tarifario cuentas deposito exitoso
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 5.2.1</a> at Jul 13, 2020 9:39:51 AM</p>
+<a href="http://www.gradle.org">Gradle 5.2.1</a> at Jul 13, 2020 9:58:51 AM</p>
 </div>
 </div>
 </body>

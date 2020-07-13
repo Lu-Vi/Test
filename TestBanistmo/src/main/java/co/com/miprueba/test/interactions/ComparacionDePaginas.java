@@ -12,8 +12,8 @@ public class ComparacionDePaginas implements Interaction {
     @Override
     public <T extends Actor> void performAs(T actor) {
         try {
-            ventanaPrincial = BrowseTheWeb.as(actor).getDriver().getWindowHandles();
-            ventanas = BrowseTheWeb.as(actor).getDriver().getWindowHandles();
+       //     ventanaPrincial = BrowseTheWeb.as(actor).getDriver().getWindowHandles();
+         //   ventanas = BrowseTheWeb.as(actor).getDriver().getWindowHandles();
             for (String ventanaActual : ventanas) {
                 if (!ventanaActual.equals(ventanaPrincial)) {
                     BrowseTheWeb.as(actor).getDriver().switchTo().window(ventanaActual);
