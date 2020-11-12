@@ -10,3 +10,5 @@ Feature:Descargas de tarifarios
   Scenario:Descarga de tarifario cuentas deposito exitoso
     When el usuario descarga el pdf Tarifas de Cuentas de Depósitos
     Then el usuario deberia ver que se descargo correctamente
+
+
