@@ -1,0 +1,2916 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es" market="es_co" class=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+    <meta charset="UTF-8" />
+    <title>Información complementaria del Contrato de Transporte Aéreo de LATAM Airlines (Brasil)</title>
+    <meta name="title" content="Información complementaria del Contrato de Transporte Aéreo de LATAM Airlines (Brasil)" />
+    
+    
+    
+    <meta name="template" content="contenido" />
+    
+
+<meta name="theme-color" content="#1b0088" />
+<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:admins" content="203352849740952" />
+
+    
+
+    <style>
+	html.document_fonts_fallback body.page :not([class*="icon"]) {
+		font-family: 'Trebuchet MS', arial, sans-serif;
+	}
+	@media (min-width:768px){
+		.Header-logoSticky .Header-logoImg--sticky{
+			background-image: url(/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/latam-logo-sticky.svg);
+			background-repeat: no-repeat;
+			width: 100px;
+			height: 22px;
+		}
+	}
+</style>
+    <script src="https://cdn.pmweb.com.br/df/tag.js?id=PM-8SMZ" async=""></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//nebula-cdn.kampyle.com/resources/onsite/js/cool-2.1.15.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TNX2GK6&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-M67394M&amp;cid=816821565.1605199653"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJWMQ9V"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    if(document.fonts &amp;&amp; sessionStorage.latamFontsLoaded != "true") {
+        document.fonts.load("1em Latam-Sans-Bold");
+        document.fonts.load("1em Latam-Sans-Regular");
+
+        document.fonts.ready.then(function(fontFaceSet){
+            document.documentElement.classList.remove("document_fonts_fallback");
+			sessionStorage.latamFontsLoaded = true;
+        });
+        
+    } else {
+        document.documentElement.classList.remove("document_fonts_fallback");
+    }
+</script>
+    
+    
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/bootstrap/v3.3.4/cross/styles.min.b09d50fa9bb6454580c2a0de67784925.css" type="text/css" />
+
+
+
+
+<link rel="stylesheet" href="//s.latamstatic.com/layout/ui/3/css/global.min.css" />
+
+<link rel="stylesheet" href="//s.latamstatic.com/layout/ui/3/css/latam-mu.min.css" />
+
+
+    
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/shared/cross/styles.min.350b52af3b403c5ae241e3c51f8a90f3.css" type="text/css" />
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/components/page/contenido/clientlibs/styles.min.262d8ec9038499e4c7862d88337d4596.css" type="text/css" />
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/slick.min.26f3c3db3eb6b9e8e4b623eb7585f70c.css" type="text/css" />
+
+
+
+
+
+
+
+	
+
+     
+    
+    
+    
+
+    
+
+    
+    
+
+  	
+    
+    
+    
+    
+    
+    
+    <link rel="icon" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/favicon/favicon.ico" type="image/x-icon" />
+	
+    
+    
+    
+    
+	
+<script type="application/ld+json">
+{"@context":"http://schema.org","@type":"Organization","name":"Información complementaria del Contrato de Transporte Aéreo de LATAM Airlines (Brasil)","url":"https://www.latam.com/es_co/transparencia/informacion-complementaria-del-contrato-de-transporte-aereo-de-l/","logo":"https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo_latam_color.svg"}
+</script>
+
+
+	
+	
+
+  <style>
+    .async-hide { opacity: 0 !important; }
+  </style>
+  <script>
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-M67394M':true});
+  </script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-111120716-2', 'auto', { allowLinker: true });
+    ga('require', 'GTM-M67394M');
+  </script>
+
+
+
+
+	<script>
+	    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	        j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+	        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	    })(window,document,'script','dataLayer','GTM-NJWMQ9V');
+	</script> 
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104" async=""></script><style type="text/css" id="kampyleStyle">.noOutline{outline: none !important;}.wcagOutline:focus{outline: 1px dashed #595959 !important;outline-offset: 2px !important;transition: none !important;}button#nebula_div_btn { height: auto !important } .kampyle_feedback-button{ background-color:transparent !important;font-family:"Open Sans",sans-serif;cursor:pointer;position:fixed;z-index:99999990 } .kampyle_feedback-button .kampyle_triangle{position:absolute;width:0;height:0;z-index:-1} .kampyle_feedback-button .kampyle_button-text{  height:81px;width:81px;text-align:center;z-index:1000;color:#ffffff;font-size:14px;font-weight:normal !important; } .kampyle_feedback-button .kampyle_bottom{ line-height:108px !important; } .kampyle_feedback-button .kampyle_top { line-height:53px !important; } .kampyle_feedback-button.kampyle_top-right{  top:0;right:0 } .kampyle_feedback-button.kampyle_top-right .kampyle_triangle { top:0;right:0;border-top:81px solid #ED1650;border-left:81px solid transparent  } .kampyle_feedback-button.kampyle_top-right .kampyle_button-text {  -ms-transform:rotate(45deg); -webkit-transform:rotate(45deg); transform:rotate(45deg) } .kampyle_feedback-button.kampyle_top-left { top:0;left:0; } .kampyle_feedback-button.kampyle_top-left .kampyle_triangle { top:0;left:0;border-top:81px solid #ED1650;border-right:81px solid transparent; } .kampyle_feedback-button.kampyle_top-left .kampyle_button-text { -ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg) } .kampyle_feedback-button.kampyle_bottom-right { bottom:0;right:0; } .kampyle_feedback-button.kampyle_bottom-right .kampyle_triangle { bottom:0;right:0;border-bottom:81px solid #ED1650;border-left:81px solid transparent } .kampyle_feedback-button.kampyle_bottom-right .kampyle_button-text { -ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg); } .kampyle_feedback-button.kampyle_bottom-left { bottom:0;left:0; } .kampyle_feedback-button.kampyle_bottom-left .kampyle_triangle { bottom:0;left:0;border-bottom:81px solid #ED1650;border-right:81px solid transparent } .kampyle_feedback-button.kampyle_bottom-left .kampyle_button-text { -ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg); } .kampyle_feedback-button.kampyle_bottom-left, .kampyle_feedback-button.kampyle_bottom-right, .kampyle_feedback-button.kampyle_top-left, .kampyle_feedback-button.kampyle_top-right { padding: 0 !important; }</style><script type="text/javascript" id="mmpack.0" src="//service.maxymiser.net/platform/us/api/mmpackage-1.13.js"></script><style type="text/css" media="screen" id="mm_style_mm_cdApiStyleId_1"></style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1012797176/?random=1605199672670&amp;cv=9&amp;fst=1605199672670&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=720&amp;u_w=1280&amp;u_ah=680&amp;u_aw=1280&amp;u_cd=24&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wgas1&amp;sendb=1&amp;ig=1&amp;data=flight_pagetype%3Dhome&amp;frm=0&amp;url=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Finformacion-complementaria-del-contrato-de-transporte-aereo-de-l%2F&amp;ref=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fcondiciones-del-contrato-de-transporte%2F&amp;tiba=Informaci%C3%B3n%20complementaria%20del%20Contrato%20de%20Transporte%20A%C3%A9reo%20de%20LATAM%20Airlines%20(Brasil)&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+    
+    
+    <body ng-app="latamApp" class="page  " data-analytics-template-dimension="content" data-datalayer-service-app="cms" data-datalayer-service-experience="CMS" data-is-one-signal-enabled="true" data-push-notification-app-id="3ff952eb-ab2c-4fb2-93d2-b60ff5cb2393">
+
+		
+	<noscript>
+		&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJWMQ9V" height="0" width="0" style="display: none; visibility: hidden"&gt;&lt;/iframe&gt;
+	</noscript>
+
+
+
+		<div class="encabezado-contingencia"><div class="bannerStaticsPage-center container">
+	<div class="bannerStaticsPage-link">
+		
+			<a href="/es_cl/transparencia/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+				<span class="icon-int-arrow-left" aria-hidden="true"></span>
+				<span class="hidden-xs">Transparencia</span>
+			</a>
+		
+		
+    </div>
+	<h1 class="bannerStaticsPage-title">Información complementaria del Contrato de Transporte Aéreo de LATAM Airlines (Brasil)</h1>
+</div>
+ 
+
+
+
+
+
+															
+<div class="hero-header ">
+	<div class="bannerStaticsPage" style="background-image:url('https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/static/fondo_pfija_luces_1600x260.jpg');">
+		<div class="bannerStaticsPage-show"></div>
+	</div>
+</div>															</div>
+    	
+		
+		
+    
+    
+
+
+
+	<header header="" class="Header" role="banner" process="false" logo-process="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo_latam_color.svg">
+		<div class="Header-content">
+		    
+		    <div class="Header-sr hidden-xs">
+		        <div class="Header-sr-container container">
+		            <div class="row">
+		                <div class="col-xs-12">
+		                    <a class="sr-only Header-sr-only sr-only-focusable links-sr-only" href="#maincontent" title="Saltar a leer el contenido principal de esta página" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1">
+								Saltar al contenido principal
+		                    </a>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		    <div class="Header-stepBar Header-stepBar--main Header-stepBar--inverse">
+                
+				<div class="Header-shadow show-sm show-md">
+		            <div class="container container-xs-height">
+		                <div class="row row-xs-height">
+		                    <div class="Header-logoStickyContainer hidden-xs col-xs-height col-sm-2">
+		                        <div class="Header-logoSticky">
+		                            <a href="/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+		                                <div class="Header-logoSticky Header-logoImg--sticky"></div>
+		                            </a>
+		                        </div>
+		                    </div>
+		                    <div class="hidden-xs col-xs-height col-sm-6 col-md-7">
+		                        <div class="complementary clearfix">
+		                            <ul class="Header-complementaryList">
+
+		                            	
+	<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border before-country-selector__container" aria-hidden="false">
+		<div class="MainNav-nestedMenuItem">
+			<div class="MainNav-link">
+				
+				<a href="https://www.latam.com/vamos/es_co/destinos/" title="Descubre nuestros destinos" target="_blank" ng-class="::{'Header-complementaryLink--inverse': isInverse}" class="Header-complementaryLink before-country-selector__item before-country-selector__color NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+					<span class="Header-complementaryLinkIcon icon-small icon-regular-air010&#10;&#9;&#9;&#9;&#9;&#9;&#9;before-country-selector__color before-country-selector__icon-desktop-structure before-country-selector__color"></span>
+					Descubre nuestros destinos
+				</a>
+			</div>
+		</div>
+	</li>
+
+
+		                                <li class="Header-complementaryItem">
+		                                    <div id="countrySelectorDesktop" country-selector="" main-access-menu="" change="callbackGMM" class="countrySelector">
+				                            	<a class="Header-complementaryLink countrySelector-flagLink NoFocusable" href="#" title="" aria-expanded="false" aria-controls="countrySelector-dropDown" role="button" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+    <span class="sr-only">Selecciona tu país para cambiar la versión del sitio</span>
+    <span class="countrySelector-countryText" aria-hidden="true">Colombia</span>
+    <span>
+        <span class="countrySelector-flagCaret countrySelector-flagCaret--inverse icon-int-caret-down"></span>
+    </span>
+</a>
+<div id="countrySelector-dropDown" aria-hidden="true" class="countrySelector-dropDown Sub-Menu">
+	<div class="container">
+		<div class="row">
+            <div class="countrySelector-ContentList">
+            	
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Sudamérica/South America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Far" data-homeinfo="es_ar" role="button" href="https://www.latam.com/es_ar/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ar"></span>Argentina</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="PT%2FBR" data-homeinfo="pt_br" role="button" href="https://www.latam.com/pt_br/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-br"></span>Brasil</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fcl" data-homeinfo="es_cl" role="button" href="https://www.latamairlines.com/cl/es" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-cl"></span>Chile</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="es%2Fco" data-homeinfo="es_co" role="button" href="https://www.latam.com/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-co"></span>Colombia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fec" data-homeinfo="es_ec" role="button" href="https://www.latamairlines.com/ecuador" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ec"></span>Ecuador</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpy" data-homeinfo="es_py" role="button" href="https://www.latam.com/es_py/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pr"></span>Paraguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpe" data-homeinfo="es_pe" role="button" href="https://www.latam.com/es_pe/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pe"></span>Perú</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fuy" data-homeinfo="es_uy" role="button" href="https://www.latam.com/es_uy/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uy"></span>Uruguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Norteamérica/North America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fca" data-homeinfo="en_ca" role="button" href="https://www.latam.com/en_ca/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ca"></span>Canada</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fmx" data-homeinfo="es_mx" role="button" href="https://www.latam.com/es_mx/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-mx"></span>México</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fus" data-homeinfo="en_us" role="button" href="https://www.latam.com/en_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>United States (English)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fus" data-homeinfo="es_us" role="button" href="https://www.latam.com/es_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Español)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="pt%2Fus" data-homeinfo="pt_us" role="button" href="https://www.latam.com/pt_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Português)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Europa/Europe</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="deutsch%2Fde" data-homeinfo="de_de" role="button" href="https://www.latam.com/de_de/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-de"></span>Deutschland</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fes" data-homeinfo="es_es" role="button" href="https://www.latam.com/es_es/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-es"></span>España</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="fr%2Ffr" data-homeinfo="fr_fr" role="button" href="https://www.latam.com/fr_fr/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-fr"></span>France</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="it%2Fit" data-homeinfo="it_it" role="button" href="https://www.latam.com/it_it/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-it"></span>Italia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uk"></span>United Kingdom</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fue" data-homeinfo="en_ue" role="button" href="https://www.latam.com/en_ue/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ue"></span>Rest of Europe</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Oceanía/Oceania</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fau" data-homeinfo="en_au" role="button" href="https://www.latam.com/en_au/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-au"></span>Australia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fnz" data-homeinfo="en_nz" role="button" href="https://www.latam.com/en_nz/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-nz"></span>New Zealand</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    	
+	    	     	    			<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Otros Países/Other countries</li>
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/latam-airlines-south-africa/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-sa"></span>South Africa</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fun" data-homeinfo="es_un" role="button" href="https://www.latam.com/es_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Otros países</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fun" data-homeinfo="en_un" role="button" href="https://www.latam.com/en_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Other countries</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     	
+    	     </div>
+		</div>
+	</div>
+</div>
+
+		                                    </div>
+		                                </li>
+
+										
+
+	
+
+	
+	
+	<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border hidden-xs" aria-hidden="false">
+	    
+	    
+		
+		<a href="https://www.latam.com/corporate/es_co/" title="Corporate" target="_blank" class="Header-complementaryLink Header-complementaryLink--inverse NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Corporate
+	    </a>
+	</li>
+<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border hidden-xs" aria-hidden="false">
+	    
+	    
+		
+		<a href="https://helpdesk.latam.com/hc/es/" title="Centro de Ayuda" target="_self" class="Header-complementaryLink Header-complementaryLink--inverse NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Centro de Ayuda
+	    </a>
+	</li>
+	
+
+
+		                            </ul>
+		                        </div>
+		                    </div>
+							<div class="col-xs-height col-sm-4 col-md-3 header__login-section">
+		                    	
+<ul class="Header-complementaryListLogin">
+    <!-- ngIf: ::(!isLoggedIn) --><li ng-if="::(!isLoggedIn)" class="Header-complementaryItem Header-complementaryGuestItem Header-complementaryItem__signup hidden-xs">
+        <div class="Header-complementaryLinkWithAnchor Header-loginInscription">
+        	<a href="https://www.latam.com/es_co/apps/personas/registration" title="Inscríbete" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">Inscríbete</a>
+        </div>
+    </li><!-- end ngIf: ::(!isLoggedIn) -->
+    <!-- ngIf: ::(!isLoggedIn) --><li ng-if="::(!isLoggedIn)" login-latam="" id="loginLatamBox" class="Header-complementaryItem Header-complementaryGuestItem hidden-xs">
+        <a href="https://login.latam.com/authorize?client_id=E2Qhf4dOyFAjYiZ88p3DuEju3LjxtOMQ&amp;response_type=code&amp;prompt=login&amp;scope=openid+profile&amp;redirect_uri=https%3A%2F%2Fwww.latam.com%2Fes_co%2F&amp;page=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Finformacion-complementaria-del-contrato-de-transporte-aereo-de-l%2F" title="Iniciar sesión" class="Header-complementaryLink NoFocusable Header-loginBtn" ng-class="::{'Header-loginBtn': (!isLoggedIn)}" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+            Iniciar sesión
+        </a>
+    </li><!-- end ngIf: ::(!isLoggedIn) -->
+    
+    <!-- ngIf: ::isLoggedIn -->
+    
+    <li class="Header-complementaryItem Header-complementaryLoggedItem Header-complementaryItem__corporate">    	
+        <div user-corporate-profile="" class="Login" main-access-menu="" change="loginCllbkGMM" classvisible="'isOpen'"></div>
+    </li>    
+</ul>
+							</div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+
+		    <!--/* Desktop/Mobile Secondary Bar /*-->
+		    <div class="Header-stepBar Header-stepBar--blue Header-stepBar--wPadding Header-stepBar--bordered Header-stepBar--stick Header-stepBar--whiteInverse" ng-class="::{'Header-stepBar--process': process}">
+		        <div class="container Header-container--relative">
+		            <div class="row">
+		                <div class="col-xs-12 col-sm-3 Header-logoContainer">
+                            
+		                    <div class="Header-logo">
+		                    	
+		                        <a href="/es_co/" class="Header-logoBlock Header-logoLink Header-logoLinkLatamDesktop NoFocusable" title="LATAM Airlines" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+		                        	
+		                            <img src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo-latam-mu.svg" alt="LATAM Airlines" class="Header-logoImg Header-mainLogo" />
+		                        </a>
+		                        
+<div class="Header-logoBlock Header-actions">
+	<a href="https://login.latam.com/authorize?client_id=E2Qhf4dOyFAjYiZ88p3DuEju3LjxtOMQ&amp;response_type=code&amp;prompt=login&amp;scope=openid+profile&amp;redirect_uri=https%3A%2F%2Fwww.latam.com%2Fes_co%2F&amp;page=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Finformacion-complementaria-del-contrato-de-transporte-aereo-de-l%2F" class="Header-actionLink Header-actionLink--profile Header-profile NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+		<span class="Header-actionIcon Header-userProfileIcon icon-large icon-regular-uid059"></span>
+	</a> <a href="#" class="Header-actionLink Header-burger NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true"> <span class="icon-int-menu icon-medium"></span>
+	</a>
+</div>
+		                    </div>
+		                </div>
+		                <div class="col-xs-3 col-sm-9 MobileMenu">
+		                    <div class="Header-menu">
+		                        <div nav="" process="false">
+									<nav role="navigation" class="MainNav clearfix" aria-label="Main menu">
+    <ul main-access-menu="" class="MainNav-menu" change="pushNavMain">
+
+		
+	<li data-submenu-id="bcs" role="presentation" ng-hide="::navProcess" class="MainNav-menuItem-bcs visible-xs" aria-hidden="false">
+		
+			
+				<i class="MainNav-icon icon-small icon-regular-air010 visible-xs before-country-selector__color"></i>
+				<a href="https://www.latam.com/vamos/es_co/destinos/" title="Descubre nuestros destinos" target="_blank" role="menuitem" class="MainNav-menuLink before-country-selector__item-mobile before-country-selector__color NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+					
+					Descubre nuestros destinos
+				</a>
+			
+		
+	</li>
+      
+
+		
+    	     
+				<li role="presentation" class="MainNav-menuItem MainNav-menuItem--first &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_0">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-tra002 visible-xs"></i>
+							
+							<a datalayer-id="destinationOffers" role="menuitem" aria-haspopup="true" aria-controls="item_0" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es-co/tiquetes" title="Vuelos yDestinos" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Vuelos y</span>
+								<span class="MainNav-textDefault">Destinos</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_0" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/promociones/vuelos-latam/" title="Ofertas" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="viajaTarifasSsombrosas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Ofertas</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por Colombia 
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-medellin" title="Vuelos a Medellín" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Medellín 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-cali" title="Vuelos a Cali" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Cali 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-cartagena" title="Vuelos a Cartagena" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Cartagena 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-santa-marta-1" title="Vuelos a Santa Marta" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Santa Marta 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-colombia" title="más destinos" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				más destinos 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por Suramérica 
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-santiago-de-chile" title="Vuelos a Santiago de Chile" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Santiago de Chile 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-buenos-aires" title="Vuelos a Buenos Aires" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Buenos Aires 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-lima" title="Vuelos a Lima" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Lima 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-sao-paulo" title="Vuelos a Sao Paulo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Sao Paulo 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-rio-de-janeiro" title="Vuelos a Rio de Janeiro" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Rio de Janeiro 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por el mundo
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-miami" title="Vuelos a Miami" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Miami 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-nueva-york" title="Vuelos a Nueva York" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Nueva York 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-madrid" title="Vuelos a Madrid" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Madrid 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-us/vuelos-a-sidney" title="Vuelos a Sidney" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Sidney 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-us/vuelos-a-melbourne" title="Vuelos a Melbourne" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Melbourne 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="destinationOffersFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/vamos/es_co" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span></span></a><a href="https://www.latam.com/vamos/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true"><b>Vamos/LATAM</b>: Inspírate y descubre tu próximo destino</a>
+			<span class="icon-caret-right"></span>
+		
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_1">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-tra016 visible-xs"></i>
+							
+							<a datalayer-id="pacotesLatamTravel" role="menuitem" aria-haspopup="true" aria-controls="item_1" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/latam-travel/" title="Hoteles, autos y paquetes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Hoteles, autos</span>
+								<span class="MainNav-textDefault"> y paquetes</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_1" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://sp.booking.com/?aid=1557034&amp;label=latam-submenutravel-co" title="Hoteles" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="bookFligth" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-tra015"></span>
+                    <span class="SubMenu-linkText">Hoteles</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://latamtravelco.chubbtravelinsurance.com/?utm_source=latamcom&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Seguro de viaje" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="bookFligth" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-air017"></span>
+                    <span class="SubMenu-linkText">Seguro de viaje</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.rentalcars.com/?affiliateCode=latam_airlines&amp;adplat=latamcom_stand_alone_latamtravel_menu_desplegable_co&amp;cor=co" title="Autos" target="_blank" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-sig007"></span>
+                    <span class="SubMenu-linkText">Autos</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Paquetes
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-travel/paquetes/colombia/" title="Colombia" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Colombia 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-travel/arma-tu-paquete/" title="Otros destinos" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Otros destinos 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Reserva también...
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1557034&amp;label=latam-submenutravel-co" title="Hoteles" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latamtravelco.chubbtravelinsurance.com/?utm_source=latamcom&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Seguro de viaje" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Seguro de viaje 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.rentalcars.com/?affiliateCode=latam_airlines&amp;adplat=latamcom_stand_alone_latamtravel_menu_desplegable_co&amp;cor=co" title="Autos" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Autos 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latamtravel.solocruceros.com/?utm_source=latamcom_co&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Cruceros" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cruceros 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Entérate de...
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/en-tus-viajes/en-latam-travel/" title="Cómo acumular Millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cómo acumular Millas 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="pacotesLatamTravelFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://forms.gle/oEpatpJuHjDkwLUA8" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Arma tu paquete con nuestros especialistas</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_2">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-uid025 visible-xs"></i>
+							
+							<a datalayer-id="checkIn" role="menuitem" aria-haspopup="true" aria-controls="item_2" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/check-in-y-otros-servicios/" title="Administratu viaje" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Administra</span>
+								<span class="MainNav-textDefault">tu viaje</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_2" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/reissue#manage-trips-level-one" title="Cambio de pasajes" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-uid024"></span>
+                    <span class="SubMenu-linkText">Cambio de pasajes</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/flightstatus" title="Estado de vuelos" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-uid020"></span>
+                    <span class="SubMenu-linkText">Estado de vuelos</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/check-in-y-otros-servicios/conoce-la-app-latam/" title="Conoce la App LATAM" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Conoce la App LATAM</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Check-in y Upgrade
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/checkin" title="Check-in" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/prepara-tu-viaje/check-in/" title="Check-in y embarque" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in y embarque 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/checkinunified#group-leader-check-in" title="Check-in jefe de grupo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in jefe de grupo 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/plusgrade" title="Upgrade de cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de cabina 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/opcion-upgrade/consigue-tu-upgrade/" title="Opción Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Opción Upgrade 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Cambios y devolución
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/reissue#manage-trips-level-two" title="Cambio de pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cambio de pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/politica-de-cambios-de-pasajes-/" title="Política de cambio de pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Política de cambio de pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/administra-tu-viaje/adelanta-o-posterga-tu-vuelo/" title="Anticipa o posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Anticipa o posterga tu vuelo 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://www.lan.com/cgi-bin/devoluciones/acceso_unico.cgi#_ga=2.47084142.87149858.1529933876-1712488678.1482360460" title="Devoluciones" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Devoluciones 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/travelvoucher?redirect=false" title="Usa tu Travel Voucher para comprar tickets y pagar servicios latam" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Usa tu Travel Voucher 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Servicios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://www.lan.com/cgi-bin/pago_reserva/paso1.cgi#_ga=2.51412832.87149858.1529933876-1712488678.1482360460" title="Paga tu reserva" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Paga tu reserva 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Mis Viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Mis Viajes 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/elige-tus-asientos-favoritos/como-funciona/" title="Compra tu asiento favorito" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra tu asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings?redirect=ancillary_equipaje" title="Agrega maletas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Agrega maletas 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.lan.com/cgi-bin/encontrar_cuv/paso1.cgi#_ga=2.51412832.87149858.1529933876-1712488678.1482360460" title="Comprobante de compra" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Comprobante de compra 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="checkInFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/es_co/check-in-y-otros-servicios/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Gestiona tu viaje y ahorra tiempo en Check-in y otros servicios</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_3">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-air001 visible-xs"></i>
+							
+							<a datalayer-id="travelInformation" role="menuitem" aria-haspopup="true" aria-controls="item_3" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/" title="Información paratu viaje" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Información para</span>
+								<span class="MainNav-textDefault">tu viaje</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_3" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/equipaje-de-mano/" title="Todo sobre el equipaje" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-sig069"></span>
+                    <span class="SubMenu-linkText">Todo sobre el equipaje</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/pasajeros-con-necesidades-especiales/" title="Asistencia especial" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-peo043"></span>
+                    <span class="SubMenu-linkText">Asistencia especial</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/latam-play/" title="Experiencia LATAM" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Experiencia LATAM</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Equipaje
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/equipaje-de-mano/" title="Equipaje" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Equipaje 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/problemas-con-tu-equipaje/" title="Problemas con tu equipaje" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Problemas con tu equipaje 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Asistencia especial
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/pasajeros-con-necesidades-especiales/" title="Asistencia a pasajeros" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asistencia a pasajeros 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/viajar-con-ninos-y-bebes/servicio-de-menor-no-acompanado/" title="Bebés y niños" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Bebés y niños 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/embarazadas/" title="Embarazadas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Embarazadas 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/alimentacion-especial/" title="Alimentación especial" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Alimentación especial 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/servicio-de-transporte-de-mascotas/mascota-en-cabina/" title="Mascotas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Mascotas 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Experiencia LATAM
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/salones-vip/salones-vip/" title="Salones VIP" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Salones VIP 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/clase-de-servicio/" title="Nuestras cabinas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Nuestras cabinas 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/experiencia/LATAMPlay/" title="Entretenimiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Entretenimiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/gastronomia-a-bordo/economy/" title="Gastronomía a bordo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Gastronomía a bordo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/travel-voucher/" title="Travel Voucher" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Travel Voucher 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="travelInformationFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Cómo armar tu equipaje y otros tips en Información para tu viaje</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--initial " data-submenu-id="item_4">
+					<div class="MainNav-nestedMenuItem all_initial">
+						<div class="MainNav-link nav-item button_initial">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_4" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_4" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta y posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta y posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras<b> Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--lanpass " data-submenu-id="item_5">
+					<div class="MainNav-nestedMenuItem all_lanpass">
+						<div class="MainNav-link nav-item button_lanpass">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_5" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_5" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta o posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta o posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras <b>Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--fidelidade " data-submenu-id="item_6">
+					<div class="MainNav-nestedMenuItem all_fidelidade">
+						<div class="MainNav-link nav-item button_fidelidade">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_6" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_6" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta " target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta y posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta y posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras <b>Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+		
+
+		
+
+	
+		<li class="firstMobileItemClasses MainNav-menuLink__signup MainNav-menuItem MainNav-menuItem--separator MainNav-menuItem--top visible-xs">							
+			<a href="https://www.latam.com/es_co/apps/personas/registration" title="Inscríbete en LATAM Pass" class="MainNav-menuLink NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Inscríbete en LATAM Pass
+			</a>
+		</li>  	  
+	
+
+	
+	
+	<li data-submenu-id="ayuda" role="presentation" ng-class="::{ 'isProcessMenuItem' : navProcess }" class="MainNav-menuItem MainNav-menuItem--top visible-xs">
+	    
+	    <i class="MainNav-icon icon-small  visible-xs"></i>
+		
+		<a href="https://www.latam.com/corporate/es_co/" title="Corporate" target="_blank" class="MainNav-menuLink NoFocusable" role="menuitem" aria-haspopup="true" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Corporate
+	    </a>
+	</li>
+<li data-submenu-id="ayuda" role="presentation" ng-class="::{ 'isProcessMenuItem' : navProcess }" class="MainNav-menuItem visible-xs">
+	    
+	    <i class="MainNav-icon icon-small  visible-xs"></i>
+		
+		<a href="https://helpdesk.latam.com/hc/es/" title="Centro de Ayuda" target="_self" class="MainNav-menuLink NoFocusable" role="menuitem" aria-haspopup="true" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Centro de Ayuda
+	    </a>
+	</li>
+	
+
+
+        <li role="presentation" class="MainNav-countrySelector visible-xs" data-submenu-id="ayuda">
+            <div country-selector="" click-event="true">
+            	<a class="Header-complementaryLink countrySelector-flagLink NoFocusable" href="#" title="" aria-expanded="false" aria-controls="countrySelector-dropDown" role="button" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+    <span class="sr-only">Selecciona tu país para cambiar la versión del sitio</span>
+    <span class="countrySelector-countryText" aria-hidden="true">Colombia</span>
+    <span>
+        <span class="countrySelector-flagCaret countrySelector-flagCaret--inverse icon-int-caret-down"></span>
+    </span>
+</a>
+<div id="countrySelector-dropDown" aria-hidden="true" class="countrySelector-dropDown Sub-Menu">
+	<div class="container">
+		<div class="row">
+            <div class="countrySelector-ContentList">
+            	
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Sudamérica/South America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Far" data-homeinfo="es_ar" role="button" href="https://www.latam.com/es_ar/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ar"></span>Argentina</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="PT%2FBR" data-homeinfo="pt_br" role="button" href="https://www.latam.com/pt_br/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-br"></span>Brasil</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fcl" data-homeinfo="es_cl" role="button" href="https://www.latamairlines.com/cl/es" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-cl"></span>Chile</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="es%2Fco" data-homeinfo="es_co" role="button" href="https://www.latam.com/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-co"></span>Colombia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fec" data-homeinfo="es_ec" role="button" href="https://www.latamairlines.com/ecuador" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ec"></span>Ecuador</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpy" data-homeinfo="es_py" role="button" href="https://www.latam.com/es_py/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pr"></span>Paraguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpe" data-homeinfo="es_pe" role="button" href="https://www.latam.com/es_pe/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pe"></span>Perú</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fuy" data-homeinfo="es_uy" role="button" href="https://www.latam.com/es_uy/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uy"></span>Uruguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Norteamérica/North America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fca" data-homeinfo="en_ca" role="button" href="https://www.latam.com/en_ca/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ca"></span>Canada</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fmx" data-homeinfo="es_mx" role="button" href="https://www.latam.com/es_mx/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-mx"></span>México</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fus" data-homeinfo="en_us" role="button" href="https://www.latam.com/en_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>United States (English)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fus" data-homeinfo="es_us" role="button" href="https://www.latam.com/es_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Español)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="pt%2Fus" data-homeinfo="pt_us" role="button" href="https://www.latam.com/pt_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Português)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Europa/Europe</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="deutsch%2Fde" data-homeinfo="de_de" role="button" href="https://www.latam.com/de_de/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-de"></span>Deutschland</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fes" data-homeinfo="es_es" role="button" href="https://www.latam.com/es_es/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-es"></span>España</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="fr%2Ffr" data-homeinfo="fr_fr" role="button" href="https://www.latam.com/fr_fr/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-fr"></span>France</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="it%2Fit" data-homeinfo="it_it" role="button" href="https://www.latam.com/it_it/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-it"></span>Italia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uk"></span>United Kingdom</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fue" data-homeinfo="en_ue" role="button" href="https://www.latam.com/en_ue/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ue"></span>Rest of Europe</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Oceanía/Oceania</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fau" data-homeinfo="en_au" role="button" href="https://www.latam.com/en_au/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-au"></span>Australia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fnz" data-homeinfo="en_nz" role="button" href="https://www.latam.com/en_nz/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-nz"></span>New Zealand</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    	
+	    	     	    			<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Otros Países/Other countries</li>
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/latam-airlines-south-africa/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-sa"></span>South Africa</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fun" data-homeinfo="es_un" role="button" href="https://www.latam.com/es_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Otros países</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fun" data-homeinfo="en_un" role="button" href="https://www.latam.com/en_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Other countries</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     	
+    	     </div>
+		</div>
+	</div>
+</div>
+
+    		</div>
+        </li>
+    </ul>
+</nav>
+
+								</div>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+	</header>
+
+
+
+		
+		
+
+
+
+<hr class="page__component-separator" />
+
+<div class="container">
+	<div class="row">
+		
+		
+		
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<main role="main" class="ha-waypoint" id="maincontent">
+				<section class="maincontentsection">
+					<div><div class="editordetexto section">	
+	<div class="richtext">
+    	<h4><b>Negativa a someterse a la inspección de seguridad de la aviación civil:</b></h4>
+<p>De acuerdo a lo que disponen las normas brasileras vigentes, en el caso de que el Pasajero se niegue a someterse a la inspección de seguridad de la aviación civil en el aeropuerto en que esté embarcando, se le denegará el acceso a las áreas de seguridad restringidas, como así también su embarque en la aeronave.</p>
+<p> </p>
+<h4><b>Negativa a transportar objetos de terceros:</b></h4>
+<p>El Pasajero debe negarse a transportar paquetes u objetos recibidos de personas desconocidas en el equipaje de mano y el equipaje facturado.</p>
+<p> </p>
+<h4><b>Pasajeros armados: </b></h4>
+<p>Los Pasajeros que lleven un arma de fuego en un vuelo nacional/doméstico deberán presentarse con una anticipación mínima de 2 horas para someterse a los procedimientos de seguridad, aportando toda la documentación necesaria e identificándose ante el agente de aeropuerto correspondiente en el puesto de atención. La Policía Federal, o en su ausencia, el órgano de seguridad pública que desempeña las funciones de policía en el aeropuerto, serán responsables de la verificación, aprobación y liberación del pasajero para embarcar. Las armas deportivas se facturarán y colocarán, obligatoriamente, en un lugar adecuado en la bodega de la aeronave. El transportista no se responsabilizará por la falta de documentación o la falta de información que puedan derivar en el atraso o la negativa de embarque.</p>
+<p>Los Pasajeros que lleven un arma de fuego en un vuelo nacional/doméstico por razón de su oficio o prerrogativa de cargo deberán presentarse ante el agente de aeropuerto correspondiente en el puesto de atención con una anticipación mínima de 2 horas para someterse a los procedimientos de seguridad, aportando toda la documentación necesaria que acredite, por razón de oficio o prerrogativa de cargo, su autorización para llevar el arma de fuego. La Policía Federal, o, en su ausencia, el órgano de seguridad pública que desempeñe las funciones de policía en el aeropuerto, serán responsables de la verificación, aprobación y liberación del pasajero para su embarque. El transportista no se responsabilizará por la falta de documentación o la falta de información que puedan resultar en el atraso o la negativa de embarque.</p>
+<p>Está prohibido transportar armas de fuego en vuelos internacionales, excepto en lo dispuesto en los tratados, convenciones y acuerdos, considerando el principio de reciprocidad, cuando haya expresa autorización del Gobierno de Brasil y del Gobierno del país hacia donde se dirige el vuelo. Para esos casos, el control será exclusivo<i> </i>de la Policía Federal y el transportista estará a cargo de facturar las armas en la caja de seguridad de la aeronave, mediante la presentación de la autorización del Gobierno del país de origen para que pueda entrar en territorio extranjero con el arma de fuego, independientemente de la función o cargo que ocupe el Pasajero.</p>
+<p> </p>
+<h4><b>Pasajeros bajo custodia:  </b></h4>
+<p>El transporte de Pasajeros o Pasajeros menores de edad bajo custodia de la autoridad policial en vuelo nacional/doméstico se realizará mediante el cumplimiento de todos los requisitos exigidos en el Programa Nacional de Seguridad de la Aviación Civil – PNAVSEC – Decreto 7.168, de 5 de mayo de 2010. La presentación e identificación para el embarque deberá realizarse con un plazo mínimo de 2 (dos) horas antes de la hora de partida del vuelo.</p>
+<p>Antes del transporte del Pasajero bajo custodia judicial, en vuelo internacional, debe enviarse una comunicación previa al Departamento de la Policía Federal, la INTERPOL, la Administración Aeroportuaria Local, el Consulado del país de destino del Pasajero y al transportador para que se realice el transporte y la eventual escala/conexión. El transportista debe seguir los mismos procedimientos utilizados para el Pasajero bajo custodia de una autoridad policial.</p>
+<p> </p>
+<h4><b>Pasajeros indisciplinados:</b></h4>
+<p>En el caso de incidentes con Pasajeros indisciplinados a bordo, con el objeto de garantizar la seguridad de los demás Pasajeros, el transportista podrá llamar a la Policía Federal, o al órgano policial competente.</p>
+
+	</div>
+	
+
+
+    
+</div>
+
+</div>
+				</section>
+			</main>
+		</div>
+	</div>
+</div>
+
+
+		<div class="loyalty-program-info hidden" data-country="CO" data-latampass-redeem-currency="millas" data-latampass-full-redeem-currency="millas LATAM Pass" data-latamfidelidade-redeem-currency="puntos" data-latamfidelidade-full-redeem-currency="puntos Multiplus"></div>
+		
+		
+    
+         
+    
+<footer role="contentinfo" class="footer">
+  <div class="footer-content">
+    <div class="container">        
+        <div><div class="hidden-xs footer-contentLinks">
+    <div class="row">
+    	
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			<h3 class="footer-headLineH3">Conócenos</h3>
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/conocenos/" target="_self" title="Sobre nosotros" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sobre nosotros</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/prensa/" target="_self" title="Sala de prensa" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sala de prensa</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/conocenos/sostenibilidad/sobre-sostenibilidad/" target="_self" title="Sostenibilidad" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sostenibilidad</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/a-medios-de-pago/medios-de-pago/" target="_self" title="Medios de pago" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Medios de pago</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://career8.successfactors.com/career?company=lan" target="_blank" title="Trabaja con nosotros" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Trabaja con nosotros</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamairlinesgroup.net/phoenix.zhtml?c=251289&amp;p=irol-irhome" target="_blank" title="Relación con inversionistas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Relación con inversionistas</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/registro_nacional_turismo_latam_co.pdf" target="_blank" title="Registro Nacional de Turismo" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Registro Nacional de Turismo</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <h3 class="footer-headLineH3">Transparencia</h3>
+
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/PDF/guia-del-pasajero/Guia-pasajero-Colombia-dic-2019.pdf" target="_blank" title="Guía del pasajero derechos y deberes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Guía del pasajero derechos y deberes</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/condiciones-del-contrato-de-transporte/" target="_self" title="Contrato de transporte" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Contrato de transporte</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/seguridad-y-privacidad/seguridad/" target="_self" title="Seguridad y privacidad" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Seguridad y privacidad</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/cargos-por-combustible-y-por-servicio/tasas-cargos-e-impuestos-a-cargo-del-pasajero/" target="_self" title="Tasas, Cargos e Impuestos" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Tasas, Cargos e Impuestos</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/terminos-de-uso/" target="_self" title="Términos de uso" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Términos de uso</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/LATAM/LAN/PDF/ES/codigo_conducta_prevencion_explotacion_ninos.pdf" target="_self" title="Código conducta para prevención de explotación en menores" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Código conducta para prevención de explotación en menores</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamairlinesgroup.net/phoenix.zhtml?c=81136&amp;p=irol-newsArticle&amp;ID=2038435" target="_self" title="Intercambio de slots Sao Paulo (GRU)" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Intercambio de slots Sao Paulo (GRU)</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			
+        	
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/condiciones-tiquetes/" target="_blank" title="Condiciones tiquetes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Condiciones tiquetes</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/nuevas-tarifas/" target="_blank" title="Nuevas Tarifas Nacionales" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Nuevas Tarifas Nacionales</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/tu-eliges-como-volar/dentro-sudamerica/" target="_blank" title="Nuevas Tarifas Internacionales" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Nuevas Tarifas Internacionales</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.derechosydeberes.co/" target="_blank" title="Conoce tus Derechos y Deberes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Conoce tus Derechos y Deberes</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			<h3 class="footer-headLineH3">Portales asociados</h3>
+        	
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamcargo.com/es/" target="_blank" title="LATAM Cargo" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">LATAM Cargo</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamtrade.com/es_co" target="_self" title="LATAM Trade" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">LATAM Trade</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.aerocivil.gov.co/" target="_self" title="Aeronáutica civil" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Aeronáutica civil</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+    </div>
+</div></div>
+        
+        <div>
+</div>
+        <div>
+<div class="row footer-socialRow">
+    <div class="footer-awardsAndCerts hidden-xs hidden-sm col-md-6 col-lg-6">
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Sitio certificado por:</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://sealsplash.geotrust.com/splash?&amp;dn=www.lan.com" target="_blank" title="Secured" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/logos-footer/download.png" alt="GeoTrust" />
+			                        <span class="sr-only">Secured</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Premios</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://www.latam.com/es_co/premios/" target="_self" title="Premios" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/logos-footer/logo_premio_para_puntocom.png" alt="Premios" />
+			                        <span class="sr-only">Premios</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Vigilado por:</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://www.supertransporte.gov.co/" target="_blank" title="Supertransporte" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/Colombia/logo vigilado_principal.png" alt="Supertransporte" />
+			                        <span class="sr-only">Supertransporte</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+    </div>
+    <div class="footer-socialNetworkLinks col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <div class="footer-socialLinks">
+            <h4 class="footer-headLineH4 footer-socialHeader">
+                Síguenos en
+            </h4>
+            <ul class="footer-unorderedList--social list-inline">
+                <li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.facebook.com/LATAMColombia/" target="_blank" title="Facebook" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-facebook"></span>
+                       		<span class="sr-only">Facebook</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://twitter.com/LATAM_CO" target="_blank" title="Twitter" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-twitter"></span>
+                       		<span class="sr-only">Twitter</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.youtube.com/user/lanairlines" target="_blank" title="Youtube" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-youtube"></span>
+                       		<span class="sr-only">Youtube</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.instagram.com/latamairlines/" target="_blank" title="Instagram" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-instagram"></span>
+                       		<span class="sr-only">Instagram</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.linkedin.com/company/latam_airlines" target="_blank" title="LnkedIn" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network "></span>
+                       		<span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+    </div>
+  </div>
+  <div><div class="footer-process">
+    <div class="container container-md-height">
+        <div class="row">
+            <div class="col-xs-12 hidden-sm hidden-md hidden-lg footer-contentLinks">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <ul class="list-inline footer-unorderedList">
+                                
+                                <li class="footer-unorderedItem--links">
+                                  <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="/es_cl/transparencia/" title="Información legal" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Información legal</a>
+                                </li>
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-brand col-xs-12 col-sm-3 col-md-3 col-lg-3 col-sm-push-9 col-md-push-9 col-md-push-9">
+                <a href="/es_co/" title="Volver al home" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+                    <img data-ptm-src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/design-image/latam/logo-footer.svg" alt="Logo LATAM" />
+                </a>
+            </div>
+            <div class="footer-copyArea col-xs-12 col-sm-9 col-md-9 col-lg-9 col-sm-pull-3 col-md-pull-3 col-lg-pull-3">
+                <div class="footer-processCopy col-md-12 col-lg-12">
+                    <p class="footer-paragraph--copy footer-copyright footer-paragraph--smToBlock">© 2020 LATAM Airlines Colombia</p>
+                    <p class="footer-paragraph--copy footer-copyright hidden-sm hidden-md hidden-lg"></p>
+                    
+                    <p class="footer-paragraph--copy footer-paragraph--smToInline hidden-xs">NIT: 890.704.196-6, Aerovias de Integración Regional S.A - Aires S.A. Av. El Dorado No.103-08 Entrada 1 - Hangar. customer_service@sac.latam.com, (+57) 1 7452020</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+</footer>
+	<img src="https://ssl.lan.com/akamai/pcom/es_co.gif" class="sr-only" aria-hidden="true" />
+    <script src="https://s.latamstatic.com/apps/datalayerservice/22.0.3/dist/js/analytics-sdk.js"></script>
+	
+
+
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+
+    
+    
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/jquery/v2.3.1.min.22acf6e91e87470f0df2b67394db1802.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/angular/v1.3.15.min.246f3e0aead8416fecb7b8f0c4e3c1d6.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/angular.min.7f2e5771f321742b16033caa3e10aa34.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/angular-commons.min.916163ec1c57b22d87658a48103593b1.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/shared/cross/scripts.min.6ffd8a04134b47cf594112adbd979cae.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/bootstrap/v3.3.4/cross/scripts.min.2ed55cd607a19a97bd812323a41b723a.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/menu-aim.min.94460ec9ca08ee5cfae7937aaef36304.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/slick.min.b1f43ad51c40aa12485174b77faef5c9.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/components/page/contenido/clientlibs/scripts.min.f01fc0ffb42c37cd7262c1f46e8d43e9.js"></script>
+
+
+
+
+    
+    
+
+
+    <script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/static/e42a67b9e7fti237025351e4663e8a092']); </script><script type="text/javascript" src="/static/e42a67b9e7fti237025351e4663e8a092"></script>
+
+<script type="text/javascript" id="" src="https://resources.digital-cloud.medallia.com/wdcus/58333/onsite/embed.js"></script><script type="text/javascript" async="" src="https://resources.digital-cloud.medallia.com/wdcus/58333/onsite/generic1605133720361.js" charset="UTF-8"></script><span></span><span id="kampyleButtonContainer"><button id="nebula_div_btn" style="border: none; background: none; right: 0px; margin-bottom: 0px;" alt="Opina" tabindex="0" class="kampyle_feedback-button kampyle_bottom-right noOutline NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true"><div class="kampyle_triangle"></div><div data-aut="feedback" class="kampyle_button-text kampyle_bottom">Opina</div></button></span>
+<script type="text/javascript" id="" src="//service.maxymiser.net/api/us/latam.com/9ee87e/mmapi.js"></script>
+</body></html>

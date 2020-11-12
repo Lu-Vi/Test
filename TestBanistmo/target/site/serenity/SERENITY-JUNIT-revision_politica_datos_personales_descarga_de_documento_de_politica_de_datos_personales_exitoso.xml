@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Revision politica datos personales" skipped="0" tests="1" time="50.12" timestamp="2020-11-12 11:26:54"><testcase name="Descarga de documento de politica de datos personales exitoso"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.miprueba.test.tasks.DescargaDeContratoColombia.performAs(DescargaDeContrato.java:25)&#13;
+co.com.miprueba.test.stepdefinitions.DescargaDePoliticaDeDatosPersonalesStepDefinition.elUsuarioDescargaElContratoDel(DescargaDePoliticaDeDatosPersonalesStepDefinition.java:35)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

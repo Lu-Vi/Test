@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Revision politica datos personales" tests="2" skipped="0" failures="2" errors="0" timestamp="2020-11-12T16:51:55" hostname="CPX-8H94UR9QNFZ" time="57.823">
+  <properties/>
+  <testcase name="Descarga de documento de politica de datos personales Colombia exitoso" classname="Revision politica datos personales" time="35.3">
+    <failure message="java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement" type="java.lang.ClassCastException">java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia.performAs(DescargaDeContratoColombia.java:28)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19.CGLIB$performAs$0(&lt;generated&gt;)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19$$FastClassByCGLIB$$826d0903.invoke(&lt;generated&gt;)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:461)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:446)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:421)
+	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:176)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:163)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:69)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19.performAs(&lt;generated&gt;)
+	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
+	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
+	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
+	at co.com.miprueba.test.stepdefinitions.DescargaDePoliticaDeDatosPersonalesStepDefinition.elUsuarioDescargaElContratoParaColombia(DescargaDePoliticaDeDatosPersonalesStepDefinition.java:36)
+	at ✽.el usuario descarga el contrato para Colombia Revisa la política de protección de datos personales(src/test/resources/features/revision_politica_datos_personales.feature:11)
+</failure>
+  </testcase>
+  <testcase name="Descarga de documento de politica de datos personales Brasil exitoso" classname="Revision politica datos personales" time="22.426">
+    <failure message="java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement" type="java.lang.ClassCastException">java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil.performAs(DescargaDeContratoBrasil.java:27)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c.CGLIB$performAs$0(&lt;generated&gt;)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c$$FastClassByCGLIB$$4b0a79b5.invoke(&lt;generated&gt;)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:461)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:446)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:421)
+	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:176)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:163)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:69)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c.performAs(&lt;generated&gt;)
+	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
+	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
+	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
+	at co.com.miprueba.test.stepdefinitions.DescargaDePoliticaDeDatosPersonalesStepDefinition.elUsuarioDescargaElContratoParaBrasil(DescargaDePoliticaDeDatosPersonalesStepDefinition.java:40)
+	at ✽.el usuario descarga el contrato para Brasil Revisa la política de protección de datos personales(src/test/resources/features/revision_politica_datos_personales.feature:16)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov 12, 2020 11:51:57 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --incognito, --enable-automation, --test-type], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 40376
+Only local connections are allowed.
+[1605199927.812][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 12, 2020 11:52:10 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED WITH ERROR: Descarga de documento de politica de datos personales Colombia exitoso
+---------------------------------------------------------------------?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Marta descarga de contrato colombia?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+Nov 12, 2020 11:52:31 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --lang=es,--disable-popup-b..., goog:chromeOptions: {args: [--lang=es, --disable-popup-blocking, --disable-download-notifica..., --start-maximized, --test-type, --ignore-certificate-errors, --allow-running-insecure-co..., --disable-translate, --always-authorize-plugins, --disable-extensions, --incognito, --enable-automation, --test-type], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 27003
+Only local connections are allowed.
+[1605199957.015][WARNING]: Timed out connecting to Chrome, retrying...
+Nov 12, 2020 11:52:39 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
+           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
+  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
+ (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
+  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
+ (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
+          \_\                                                            
+
+TEST FAILED WITH ERROR: Descarga de documento de politica de datos personales Brasil exitoso
+---------------------------------------------------------------------?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Marta descarga de contrato brasil?[0m
+[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+]]></system-err>
+</testsuite>

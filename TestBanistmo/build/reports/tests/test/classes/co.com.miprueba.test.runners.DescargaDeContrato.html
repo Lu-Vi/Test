@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class co.com.miprueba.test.runners.DescargaDeContrato</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class co.com.miprueba.test.runners.DescargaDeContrato</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/co.com.miprueba.test.runners.html">co.com.miprueba.test.runners</a> &gt; DescargaDeContrato</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">0</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">-</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">-</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+<li>
+<a href="#tab2">Standard error</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>
+?[31mFailed scenarios:?[0m
+?[31msrc/test/resources/features/revision_politica_datos_personales.feature:10 ?[0m# Descarga de documento de politica de datos personales Colombia exitoso
+?[31msrc/test/resources/features/revision_politica_datos_personales.feature:15 ?[0m# Descarga de documento de politica de datos personales Brasil exitoso
+
+2 Scenarios (?[31m2 failed?[0m)
+6 Steps (?[31m2 failed?[0m, ?[36m2 skipped?[0m, ?[32m2 passed?[0m)
+0m59.191s
+
+java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia.performAs(DescargaDeContratoColombia.java:28)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19.CGLIB$performAs$0(&lt;generated&gt;)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19$$FastClassByCGLIB$$826d0903.invoke(&lt;generated&gt;)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:461)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:446)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:421)
+	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:176)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:163)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:69)
+	at co.com.miprueba.test.tasks.DescargaDeContratoColombia$$EnhancerByCGLIB$$eb5c8a19.performAs(&lt;generated&gt;)
+	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
+	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
+	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
+	at co.com.miprueba.test.stepdefinitions.DescargaDePoliticaDeDatosPersonalesStepDefinition.elUsuarioDescargaElContratoParaColombia(DescargaDePoliticaDeDatosPersonalesStepDefinition.java:36)
+	at ?.el usuario descarga el contrato para Colombia Revisa la política de protección de datos personales(src/test/resources/features/revision_politica_datos_personales.feature:11)
+
+java.lang.ClassCastException: net.serenitybdd.screenplay.actions.ClickOnTarget$$EnhancerByCGLIB$$e3f2ec6d cannot be cast to org.openqa.selenium.WebElement
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil.performAs(DescargaDeContratoBrasil.java:27)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c.CGLIB$performAs$0(&lt;generated&gt;)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c$$FastClassByCGLIB$$4b0a79b5.invoke(&lt;generated&gt;)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:461)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:446)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:421)
+	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:176)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:163)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:69)
+	at co.com.miprueba.test.tasks.DescargaDeContratoBrasil$$EnhancerByCGLIB$$b5a6631c.performAs(&lt;generated&gt;)
+	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
+	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
+	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
+	at co.com.miprueba.test.stepdefinitions.DescargaDePoliticaDeDatosPersonalesStepDefinition.elUsuarioDescargaElContratoParaBrasil(DescargaDePoliticaDeDatosPersonalesStepDefinition.java:40)
+	at ?.el usuario descarga el contrato para Brasil Revisa la política de protección de datos personales(src/test/resources/features/revision_politica_datos_personales.feature:16)
+
+</pre>
+</span>
+</div>
+<div id="tab2" class="tab">
+<h2>Standard error</h2>
+<span class="code">
+<pre>[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+?[0m
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Revision politica datos personales
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ &lt; | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Descarga de documento de politica de datos personales Colombia exitoso
+-------------------------------------------------------------------(revision-politica-datos-personales;descarga-de-documento-de-politica-de-datos-personales-colombia-exitoso)
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ &lt; | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Descarga de documento de politica de datos personales Brasil exitoso
+-------------------------------------------------------------------(revision-politica-datos-personales;descarga-de-documento-de-politica-de-datos-personales-brasil-exitoso)
+[pool-2-thread-2] INFO net.thucydides.core.requirements.PackageRequirementsTagProvider - Loading requirements from package requirements at: net.thucydides.showcase.cucumber.junit
+[pool-2-thread-1] INFO net.thucydides.core.requirements.PackageRequirementsTagProvider - Loading requirements from package requirements at: net.thucydides.showcase.cucumber.junit
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 5.2.1</a> at Nov 12, 2020 11:52:58 AM</p>
+</div>
+</div>
+</body>
+</html>

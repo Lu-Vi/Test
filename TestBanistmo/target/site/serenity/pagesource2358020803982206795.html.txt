@@ -1,0 +1,3089 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es" market="es_co" class=""><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+    <meta charset="UTF-8" />
+    <title>Anexo contrato transporte complementario para Colombia</title>
+    <meta name="title" content="Anexo contrato transporte complementario para Colombia" />
+    
+    
+    
+    <meta name="template" content="contenido" />
+    
+
+<meta name="theme-color" content="#1b0088" />
+<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="fb:admins" content="203352849740952" />
+
+    
+
+    <style>
+	html.document_fonts_fallback body.page :not([class*="icon"]) {
+		font-family: 'Trebuchet MS', arial, sans-serif;
+	}
+	@media (min-width:768px){
+		.Header-logoSticky .Header-logoImg--sticky{
+			background-image: url(/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/latam-logo-sticky.svg);
+			background-repeat: no-repeat;
+			width: 100px;
+			height: 22px;
+		}
+	}
+</style>
+    <script src="https://cdn.pmweb.com.br/df/tag.js?id=PM-8SMZ" async=""></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//nebula-cdn.kampyle.com/resources/onsite/js/cool-2.1.15.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TNX2GK6&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-M67394M&amp;cid=441773431.1605198874"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJWMQ9V"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    if(document.fonts &amp;&amp; sessionStorage.latamFontsLoaded != "true") {
+        document.fonts.load("1em Latam-Sans-Bold");
+        document.fonts.load("1em Latam-Sans-Regular");
+
+        document.fonts.ready.then(function(fontFaceSet){
+            document.documentElement.classList.remove("document_fonts_fallback");
+			sessionStorage.latamFontsLoaded = true;
+        });
+        
+    } else {
+        document.documentElement.classList.remove("document_fonts_fallback");
+    }
+</script>
+    
+    
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/bootstrap/v3.3.4/cross/styles.min.b09d50fa9bb6454580c2a0de67784925.css" type="text/css" />
+
+
+
+
+<link rel="stylesheet" href="//s.latamstatic.com/layout/ui/3/css/global.min.css" />
+
+<link rel="stylesheet" href="//s.latamstatic.com/layout/ui/3/css/latam-mu.min.css" />
+
+
+    
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/shared/cross/styles.min.350b52af3b403c5ae241e3c51f8a90f3.css" type="text/css" />
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/components/page/contenido/clientlibs/styles.min.262d8ec9038499e4c7862d88337d4596.css" type="text/css" />
+<link rel="stylesheet" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/slick.min.26f3c3db3eb6b9e8e4b623eb7585f70c.css" type="text/css" />
+
+
+
+
+
+
+
+	
+
+     
+    
+    
+    
+
+    
+
+    
+    
+
+  	
+    
+    
+    
+    
+    
+    
+    <link rel="icon" href="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/favicon/favicon.ico" type="image/x-icon" />
+	
+    
+    
+    
+    
+	
+<script type="application/ld+json">
+{"@context":"http://schema.org","@type":"Organization","name":"Anexo contrato transporte complementario para Colombia","url":"https://www.latam.com/es_co/transparencia/anexo-contrato-transporte-complementario-para-colombia/","logo":"https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo_latam_color.svg"}
+</script>
+
+
+	
+	
+
+  <style>
+    .async-hide { opacity: 0 !important; }
+  </style>
+  <script>
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+	h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+	(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+	})(window,document.documentElement,'async-hide','dataLayer',4000,
+	{'GTM-M67394M':true});
+  </script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-111120716-2', 'auto', { allowLinker: true });
+    ga('require', 'GTM-M67394M');
+  </script>
+
+
+
+
+	<script>
+	    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	        j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+	        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	    })(window,document,'script','dataLayer','GTM-NJWMQ9V');
+	</script> 
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151104" async=""></script><link rel="stylesheet" href="https://onesignal.com/sdks/OneSignalSDKStyles.css?v=2" /><style type="text/css" id="kampyleStyle">.noOutline{outline: none !important;}.wcagOutline:focus{outline: 1px dashed #595959 !important;outline-offset: 2px !important;transition: none !important;}button#nebula_div_btn { height: auto !important } .kampyle_feedback-button{ background-color:transparent !important;font-family:"Open Sans",sans-serif;cursor:pointer;position:fixed;z-index:99999990 } .kampyle_feedback-button .kampyle_triangle{position:absolute;width:0;height:0;z-index:-1} .kampyle_feedback-button .kampyle_button-text{  height:81px;width:81px;text-align:center;z-index:1000;color:#ffffff;font-size:14px;font-weight:normal !important; } .kampyle_feedback-button .kampyle_bottom{ line-height:108px !important; } .kampyle_feedback-button .kampyle_top { line-height:53px !important; } .kampyle_feedback-button.kampyle_top-right{  top:0;right:0 } .kampyle_feedback-button.kampyle_top-right .kampyle_triangle { top:0;right:0;border-top:81px solid #ED1650;border-left:81px solid transparent  } .kampyle_feedback-button.kampyle_top-right .kampyle_button-text {  -ms-transform:rotate(45deg); -webkit-transform:rotate(45deg); transform:rotate(45deg) } .kampyle_feedback-button.kampyle_top-left { top:0;left:0; } .kampyle_feedback-button.kampyle_top-left .kampyle_triangle { top:0;left:0;border-top:81px solid #ED1650;border-right:81px solid transparent; } .kampyle_feedback-button.kampyle_top-left .kampyle_button-text { -ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg) } .kampyle_feedback-button.kampyle_bottom-right { bottom:0;right:0; } .kampyle_feedback-button.kampyle_bottom-right .kampyle_triangle { bottom:0;right:0;border-bottom:81px solid #ED1650;border-left:81px solid transparent } .kampyle_feedback-button.kampyle_bottom-right .kampyle_button-text { -ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg); } .kampyle_feedback-button.kampyle_bottom-left { bottom:0;left:0; } .kampyle_feedback-button.kampyle_bottom-left .kampyle_triangle { bottom:0;left:0;border-bottom:81px solid #ED1650;border-right:81px solid transparent } .kampyle_feedback-button.kampyle_bottom-left .kampyle_button-text { -ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg); } .kampyle_feedback-button.kampyle_bottom-left, .kampyle_feedback-button.kampyle_bottom-right, .kampyle_feedback-button.kampyle_top-left, .kampyle_feedback-button.kampyle_top-right { padding: 0 !important; }</style><script type="text/javascript" id="mmpack.0" src="//service.maxymiser.net/platform/us/api/mmpackage-1.13.js"></script><style type="text/css" media="screen" id="mm_style_mm_cdApiStyleId_1"></style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1012797176/?random=1605198904130&amp;cv=9&amp;fst=1605198904130&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=720&amp;u_w=1280&amp;u_ah=680&amp;u_aw=1280&amp;u_cd=24&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wgas1&amp;sendb=1&amp;ig=1&amp;data=flight_pagetype%3Dhome&amp;frm=0&amp;url=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fanexo-contrato-transporte-complementario-para-colombia%2F&amp;ref=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fcondiciones-del-contrato-de-transporte%2F&amp;tiba=Anexo%20contrato%20transporte%20complementario%20para%20Colombia&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+    
+    
+    <body ng-app="latamApp" class="page  " data-analytics-template-dimension="content" data-datalayer-service-app="cms" data-datalayer-service-experience="CMS" data-is-one-signal-enabled="true" data-push-notification-app-id="3ff952eb-ab2c-4fb2-93d2-b60ff5cb2393">
+
+		
+	<noscript>
+		&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJWMQ9V" height="0" width="0" style="display: none; visibility: hidden"&gt;&lt;/iframe&gt;
+	</noscript>
+
+
+
+		<div class="encabezado-contingencia"><div class="bannerStaticsPage-center container">
+	<div class="bannerStaticsPage-link">
+		
+			<a href="/es_cl/transparencia/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+				<span class="icon-int-arrow-left" aria-hidden="true"></span>
+				<span class="hidden-xs">Transparencia</span>
+			</a>
+		
+		
+    </div>
+	<h1 class="bannerStaticsPage-title">Anexo contrato transporte complementario para Colombia</h1>
+</div>
+ 
+
+
+
+
+
+															
+<div class="hero-header ">
+	<div class="bannerStaticsPage" style="background-image:url('https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/static/fondo_pfija_luces_1600x260.jpg');">
+		<div class="bannerStaticsPage-show"></div>
+	</div>
+</div>															</div>
+    	
+		
+		
+    
+    
+
+
+
+	<header header="" class="Header" role="banner" process="false" logo-process="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo_latam_color.svg">
+		<div class="Header-content">
+		    
+		    <div class="Header-sr hidden-xs">
+		        <div class="Header-sr-container container">
+		            <div class="row">
+		                <div class="col-xs-12">
+		                    <a class="sr-only Header-sr-only sr-only-focusable links-sr-only" href="#maincontent" title="Saltar a leer el contenido principal de esta página" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1">
+								Saltar al contenido principal
+		                    </a>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		    <div class="Header-stepBar Header-stepBar--main Header-stepBar--inverse">
+                
+				<div class="Header-shadow show-sm show-md">
+		            <div class="container container-xs-height">
+		                <div class="row row-xs-height">
+		                    <div class="Header-logoStickyContainer hidden-xs col-xs-height col-sm-2">
+		                        <div class="Header-logoSticky">
+		                            <a href="/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+		                                <div class="Header-logoSticky Header-logoImg--sticky"></div>
+		                            </a>
+		                        </div>
+		                    </div>
+		                    <div class="hidden-xs col-xs-height col-sm-6 col-md-7">
+		                        <div class="complementary clearfix">
+		                            <ul class="Header-complementaryList">
+
+		                            	
+	<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border before-country-selector__container" aria-hidden="false">
+		<div class="MainNav-nestedMenuItem">
+			<div class="MainNav-link">
+				
+				<a href="https://www.latam.com/vamos/es_co/destinos/" title="Descubre nuestros destinos" target="_blank" ng-class="::{'Header-complementaryLink--inverse': isInverse}" class="Header-complementaryLink before-country-selector__item before-country-selector__color NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+					<span class="Header-complementaryLinkIcon icon-small icon-regular-air010&#10;&#9;&#9;&#9;&#9;&#9;&#9;before-country-selector__color before-country-selector__icon-desktop-structure before-country-selector__color"></span>
+					Descubre nuestros destinos
+				</a>
+			</div>
+		</div>
+	</li>
+
+
+		                                <li class="Header-complementaryItem">
+		                                    <div id="countrySelectorDesktop" country-selector="" main-access-menu="" change="callbackGMM" class="countrySelector">
+				                            	<a class="Header-complementaryLink countrySelector-flagLink NoFocusable" href="#" title="" aria-expanded="false" aria-controls="countrySelector-dropDown" role="button" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+    <span class="sr-only">Selecciona tu país para cambiar la versión del sitio</span>
+    <span class="countrySelector-countryText" aria-hidden="true">Colombia</span>
+    <span>
+        <span class="countrySelector-flagCaret countrySelector-flagCaret--inverse icon-int-caret-down"></span>
+    </span>
+</a>
+<div id="countrySelector-dropDown" aria-hidden="true" class="countrySelector-dropDown Sub-Menu">
+	<div class="container">
+		<div class="row">
+            <div class="countrySelector-ContentList">
+            	
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Sudamérica/South America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Far" data-homeinfo="es_ar" role="button" href="https://www.latam.com/es_ar/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ar"></span>Argentina</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="PT%2FBR" data-homeinfo="pt_br" role="button" href="https://www.latam.com/pt_br/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-br"></span>Brasil</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fcl" data-homeinfo="es_cl" role="button" href="https://www.latamairlines.com/cl/es" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-cl"></span>Chile</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="es%2Fco" data-homeinfo="es_co" role="button" href="https://www.latam.com/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-co"></span>Colombia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fec" data-homeinfo="es_ec" role="button" href="https://www.latamairlines.com/ecuador" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ec"></span>Ecuador</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpy" data-homeinfo="es_py" role="button" href="https://www.latam.com/es_py/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pr"></span>Paraguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpe" data-homeinfo="es_pe" role="button" href="https://www.latam.com/es_pe/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pe"></span>Perú</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fuy" data-homeinfo="es_uy" role="button" href="https://www.latam.com/es_uy/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uy"></span>Uruguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Norteamérica/North America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fca" data-homeinfo="en_ca" role="button" href="https://www.latam.com/en_ca/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ca"></span>Canada</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fmx" data-homeinfo="es_mx" role="button" href="https://www.latam.com/es_mx/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-mx"></span>México</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fus" data-homeinfo="en_us" role="button" href="https://www.latam.com/en_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>United States (English)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fus" data-homeinfo="es_us" role="button" href="https://www.latam.com/es_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Español)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="pt%2Fus" data-homeinfo="pt_us" role="button" href="https://www.latam.com/pt_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Português)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Europa/Europe</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="deutsch%2Fde" data-homeinfo="de_de" role="button" href="https://www.latam.com/de_de/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-de"></span>Deutschland</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fes" data-homeinfo="es_es" role="button" href="https://www.latam.com/es_es/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-es"></span>España</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="fr%2Ffr" data-homeinfo="fr_fr" role="button" href="https://www.latam.com/fr_fr/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-fr"></span>France</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="it%2Fit" data-homeinfo="it_it" role="button" href="https://www.latam.com/it_it/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-it"></span>Italia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uk"></span>United Kingdom</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fue" data-homeinfo="en_ue" role="button" href="https://www.latam.com/en_ue/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ue"></span>Rest of Europe</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Oceanía/Oceania</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fau" data-homeinfo="en_au" role="button" href="https://www.latam.com/en_au/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-au"></span>Australia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fnz" data-homeinfo="en_nz" role="button" href="https://www.latam.com/en_nz/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-nz"></span>New Zealand</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    	
+	    	     	    			<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Otros Países/Other countries</li>
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/latam-airlines-south-africa/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-sa"></span>South Africa</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fun" data-homeinfo="es_un" role="button" href="https://www.latam.com/es_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Otros países</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fun" data-homeinfo="en_un" role="button" href="https://www.latam.com/en_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Other countries</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     	
+    	     </div>
+		</div>
+	</div>
+</div>
+
+		                                    </div>
+		                                </li>
+
+										
+
+	
+
+	
+	
+	<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border hidden-xs" aria-hidden="false">
+	    
+	    
+		
+		<a href="https://www.latam.com/corporate/es_co/" title="Corporate" target="_blank" class="Header-complementaryLink Header-complementaryLink--inverse NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Corporate
+	    </a>
+	</li>
+<li ng-hide="::process" class="Header-complementaryItem Header-complementaryItem--border hidden-xs" aria-hidden="false">
+	    
+	    
+		
+		<a href="https://helpdesk.latam.com/hc/es/" title="Centro de Ayuda" target="_self" class="Header-complementaryLink Header-complementaryLink--inverse NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Centro de Ayuda
+	    </a>
+	</li>
+	
+
+
+		                            </ul>
+		                        </div>
+		                    </div>
+							<div class="col-xs-height col-sm-4 col-md-3 header__login-section">
+		                    	
+<ul class="Header-complementaryListLogin">
+    <!-- ngIf: ::(!isLoggedIn) --><li ng-if="::(!isLoggedIn)" class="Header-complementaryItem Header-complementaryGuestItem Header-complementaryItem__signup hidden-xs">
+        <div class="Header-complementaryLinkWithAnchor Header-loginInscription">
+        	<a href="https://www.latam.com/es_co/apps/personas/registration" title="Inscríbete" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">Inscríbete</a>
+        </div>
+    </li><!-- end ngIf: ::(!isLoggedIn) -->
+    <!-- ngIf: ::(!isLoggedIn) --><li ng-if="::(!isLoggedIn)" login-latam="" id="loginLatamBox" class="Header-complementaryItem Header-complementaryGuestItem hidden-xs">
+        <a href="https://login.latam.com/authorize?client_id=E2Qhf4dOyFAjYiZ88p3DuEju3LjxtOMQ&amp;response_type=code&amp;prompt=login&amp;scope=openid+profile&amp;redirect_uri=https%3A%2F%2Fwww.latam.com%2Fes_co%2F&amp;page=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fanexo-contrato-transporte-complementario-para-colombia%2F" title="Iniciar sesión" class="Header-complementaryLink NoFocusable Header-loginBtn" ng-class="::{'Header-loginBtn': (!isLoggedIn)}" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+            Iniciar sesión
+        </a>
+    </li><!-- end ngIf: ::(!isLoggedIn) -->
+    
+    <!-- ngIf: ::isLoggedIn -->
+    
+    <li class="Header-complementaryItem Header-complementaryLoggedItem Header-complementaryItem__corporate">    	
+        <div user-corporate-profile="" class="Login" main-access-menu="" change="loginCllbkGMM" classvisible="'isOpen'"></div>
+    </li>    
+</ul>
+							</div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+
+		    <!--/* Desktop/Mobile Secondary Bar /*-->
+		    <div class="Header-stepBar Header-stepBar--blue Header-stepBar--wPadding Header-stepBar--bordered Header-stepBar--stick Header-stepBar--whiteInverse" ng-class="::{'Header-stepBar--process': process}">
+		        <div class="container Header-container--relative">
+		            <div class="row">
+		                <div class="col-xs-12 col-sm-3 Header-logoContainer">
+                            
+		                    <div class="Header-logo">
+		                    	
+		                        <a href="/es_co/" class="Header-logoBlock Header-logoLink Header-logoLinkLatamDesktop NoFocusable" title="LATAM Airlines" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+		                        	
+		                            <img src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/content-image/header/logo-latam-mu.svg" alt="LATAM Airlines" class="Header-logoImg Header-mainLogo" />
+		                        </a>
+		                        
+<div class="Header-logoBlock Header-actions">
+	<a href="https://login.latam.com/authorize?client_id=E2Qhf4dOyFAjYiZ88p3DuEju3LjxtOMQ&amp;response_type=code&amp;prompt=login&amp;scope=openid+profile&amp;redirect_uri=https%3A%2F%2Fwww.latam.com%2Fes_co%2F&amp;page=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fanexo-contrato-transporte-complementario-para-colombia%2F" class="Header-actionLink Header-actionLink--profile Header-profile NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+		<span class="Header-actionIcon Header-userProfileIcon icon-large icon-regular-uid059"></span>
+	</a> <a href="#" class="Header-actionLink Header-burger NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true"> <span class="icon-int-menu icon-medium"></span>
+	</a>
+</div>
+		                    </div>
+		                </div>
+		                <div class="col-xs-3 col-sm-9 MobileMenu">
+		                    <div class="Header-menu">
+		                        <div nav="" process="false">
+									<nav role="navigation" class="MainNav clearfix" aria-label="Main menu">
+    <ul main-access-menu="" class="MainNav-menu" change="pushNavMain">
+
+		
+	<li data-submenu-id="bcs" role="presentation" ng-hide="::navProcess" class="MainNav-menuItem-bcs visible-xs" aria-hidden="false">
+		
+			
+				<i class="MainNav-icon icon-small icon-regular-air010 visible-xs before-country-selector__color"></i>
+				<a href="https://www.latam.com/vamos/es_co/destinos/" title="Descubre nuestros destinos" target="_blank" role="menuitem" class="MainNav-menuLink before-country-selector__item-mobile before-country-selector__color NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+					
+					Descubre nuestros destinos
+				</a>
+			
+		
+	</li>
+      
+
+		
+    	     
+				<li role="presentation" class="MainNav-menuItem MainNav-menuItem--first &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_0">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-tra002 visible-xs"></i>
+							
+							<a datalayer-id="destinationOffers" role="menuitem" aria-haspopup="true" aria-controls="item_0" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es-co/tiquetes" title="Vuelos yDestinos" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Vuelos y</span>
+								<span class="MainNav-textDefault">Destinos</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_0" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/promociones/vuelos-latam/" title="Ofertas" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="viajaTarifasSsombrosas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Ofertas</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por Colombia 
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-medellin" title="Vuelos a Medellín" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Medellín 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-cali" title="Vuelos a Cali" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Cali 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-cartagena" title="Vuelos a Cartagena" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Cartagena 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-santa-marta-1" title="Vuelos a Santa Marta" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Santa Marta 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-colombia" title="más destinos" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				más destinos 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por Suramérica 
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-santiago-de-chile" title="Vuelos a Santiago de Chile" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Santiago de Chile 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-buenos-aires" title="Vuelos a Buenos Aires" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Buenos Aires 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-lima" title="Vuelos a Lima" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Lima 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-sao-paulo" title="Vuelos a Sao Paulo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Sao Paulo 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-rio-de-janeiro" title="Vuelos a Rio de Janeiro" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Rio de Janeiro 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Viaja por el mundo
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-miami" title="Vuelos a Miami" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Miami 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-nueva-york" title="Vuelos a Nueva York" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Nueva York 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-co/tiquetes-a-madrid" title="Vuelos a Madrid" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Madrid 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-us/vuelos-a-sidney" title="Vuelos a Sidney" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Sidney 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es-us/vuelos-a-melbourne" title="Vuelos a Melbourne" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Vuelos a Melbourne 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="destinationOffersFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/vamos/es_co" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span></span></a><a href="https://www.latam.com/vamos/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true"><b>Vamos/LATAM</b>: Inspírate y descubre tu próximo destino</a>
+			<span class="icon-caret-right"></span>
+		
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_1">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-tra016 visible-xs"></i>
+							
+							<a datalayer-id="pacotesLatamTravel" role="menuitem" aria-haspopup="true" aria-controls="item_1" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/latam-travel/" title="Hoteles, autos y paquetes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Hoteles, autos</span>
+								<span class="MainNav-textDefault"> y paquetes</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_1" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://sp.booking.com/?aid=1557034&amp;label=latam-submenutravel-co" title="Hoteles" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="bookFligth" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-tra015"></span>
+                    <span class="SubMenu-linkText">Hoteles</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://latamtravelco.chubbtravelinsurance.com/?utm_source=latamcom&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Seguro de viaje" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="bookFligth" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-air017"></span>
+                    <span class="SubMenu-linkText">Seguro de viaje</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.rentalcars.com/?affiliateCode=latam_airlines&amp;adplat=latamcom_stand_alone_latamtravel_menu_desplegable_co&amp;cor=co" title="Autos" target="_blank" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-sig007"></span>
+                    <span class="SubMenu-linkText">Autos</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Paquetes
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-travel/paquetes/colombia/" title="Colombia" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Colombia 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-travel/arma-tu-paquete/" title="Otros destinos" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Otros destinos 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Reserva también...
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1557034&amp;label=latam-submenutravel-co" title="Hoteles" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latamtravelco.chubbtravelinsurance.com/?utm_source=latamcom&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Seguro de viaje" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Seguro de viaje 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.rentalcars.com/?affiliateCode=latam_airlines&amp;adplat=latamcom_stand_alone_latamtravel_menu_desplegable_co&amp;cor=co" title="Autos" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Autos 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latamtravel.solocruceros.com/?utm_source=latamcom_co&amp;utm_medium=stand_alone&amp;utm_campaign=latamtravel_menu_desplegable" title="Cruceros" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cruceros 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Entérate de...
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/en-tus-viajes/en-latam-travel/" title="Cómo acumular Millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cómo acumular Millas 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="pacotesLatamTravelFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://forms.gle/oEpatpJuHjDkwLUA8" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Arma tu paquete con nuestros especialistas</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_2">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-uid025 visible-xs"></i>
+							
+							<a datalayer-id="checkIn" role="menuitem" aria-haspopup="true" aria-controls="item_2" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/check-in-y-otros-servicios/" title="Administratu viaje" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Administra</span>
+								<span class="MainNav-textDefault">tu viaje</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_2" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/reissue#manage-trips-level-one" title="Cambio de pasajes" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-uid024"></span>
+                    <span class="SubMenu-linkText">Cambio de pasajes</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/flightstatus" title="Estado de vuelos" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-uid020"></span>
+                    <span class="SubMenu-linkText">Estado de vuelos</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/check-in-y-otros-servicios/conoce-la-app-latam/" title="Conoce la App LATAM" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Conoce la App LATAM</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Check-in y Upgrade
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/checkin" title="Check-in" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/prepara-tu-viaje/check-in/" title="Check-in y embarque" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in y embarque 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/checkinunified#group-leader-check-in" title="Check-in jefe de grupo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Check-in jefe de grupo 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/plusgrade" title="Upgrade de cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de cabina 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/opcion-upgrade/consigue-tu-upgrade/" title="Opción Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Opción Upgrade 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Cambios y devolución
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/reissue#manage-trips-level-two" title="Cambio de pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Cambio de pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/politica-de-cambios-de-pasajes-/" title="Política de cambio de pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Política de cambio de pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/administra-tu-viaje/adelanta-o-posterga-tu-vuelo/" title="Anticipa o posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Anticipa o posterga tu vuelo 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://www.lan.com/cgi-bin/devoluciones/acceso_unico.cgi#_ga=2.47084142.87149858.1529933876-1712488678.1482360460" title="Devoluciones" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Devoluciones 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/travelvoucher?redirect=false" title="Usa tu Travel Voucher para comprar tickets y pagar servicios latam" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Usa tu Travel Voucher 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Servicios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://www.lan.com/cgi-bin/pago_reserva/paso1.cgi#_ga=2.51412832.87149858.1529933876-1712488678.1482360460" title="Paga tu reserva" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Paga tu reserva 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Mis Viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Mis Viajes 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/elige-tus-asientos-favoritos/como-funciona/" title="Compra tu asiento favorito" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra tu asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings?redirect=ancillary_equipaje" title="Agrega maletas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Agrega maletas 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.lan.com/cgi-bin/encontrar_cuv/paso1.cgi#_ga=2.51412832.87149858.1529933876-1712488678.1482360460" title="Comprobante de compra" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Comprobante de compra 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="checkInFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/es_co/check-in-y-otros-servicios/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Gestiona tu viaje y ahorra tiempo en Check-in y otros servicios</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;            " data-submenu-id="item_3">
+					<div class="MainNav-nestedMenuItem ">
+						<div class="MainNav-link nav-item ">
+							<i class="MainNav-icon icon-small icon-regular-air001 visible-xs"></i>
+							
+							<a datalayer-id="travelInformation" role="menuitem" aria-haspopup="true" aria-controls="item_3" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/" title="Información paratu viaje" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">Información para</span>
+								<span class="MainNav-textDefault">tu viaje</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_3" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/equipaje-de-mano/" title="Todo sobre el equipaje" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-sig069"></span>
+                    <span class="SubMenu-linkText">Todo sobre el equipaje</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/pasajeros-con-necesidades-especiales/" title="Asistencia especial" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-peo043"></span>
+                    <span class="SubMenu-linkText">Asistencia especial</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/latam-play/" title="Experiencia LATAM" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large "></span>
+                    <span class="SubMenu-linkText">Experiencia LATAM</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Equipaje
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/equipaje-de-mano/" title="Equipaje" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Equipaje 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/equipaje/problemas-con-tu-equipaje/" title="Problemas con tu equipaje" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Problemas con tu equipaje 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Asistencia especial
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/pasajeros-con-necesidades-especiales/" title="Asistencia a pasajeros" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asistencia a pasajeros 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/viajar-con-ninos-y-bebes/servicio-de-menor-no-acompanado/" title="Bebés y niños" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Bebés y niños 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/embarazadas/" title="Embarazadas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Embarazadas 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/necesidades-especiales/alimentacion-especial/" title="Alimentación especial" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Alimentación especial 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/servicio-de-transporte-de-mascotas/mascota-en-cabina/" title="Mascotas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Mascotas 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Experiencia LATAM
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/salones-vip/salones-vip/" title="Salones VIP" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Salones VIP 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/clase-de-servicio/" title="Nuestras cabinas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Nuestras cabinas 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/experiencia/LATAMPlay/" title="Entretenimiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Entretenimiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/conocenos/experiencia-a-bordo/gastronomia-a-bordo/economy/" title="Gastronomía a bordo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Gastronomía a bordo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/travel-voucher/" title="Travel Voucher" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Travel Voucher 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="travelInformationFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Cómo armar tu equipaje y otros tips en Información para tu viaje</span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--initial " data-submenu-id="item_4">
+					<div class="MainNav-nestedMenuItem all_initial">
+						<div class="MainNav-link nav-item button_initial">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_4" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_4" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta y posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta y posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras<b> Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--lanpass " data-submenu-id="item_5">
+					<div class="MainNav-nestedMenuItem all_lanpass">
+						<div class="MainNav-link nav-item button_lanpass">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_5" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_5" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta o posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta o posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras <b>Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+				<li role="presentation" class="MainNav-menuItem  &#10;&#9;&#9;&#9;&#9;           MainNav-menuItem--fidelidade " data-submenu-id="item_6">
+					<div class="MainNav-nestedMenuItem all_fidelidade">
+						<div class="MainNav-link nav-item button_fidelidade">
+							<i class="MainNav-icon icon-small icon-regular-ffp001 visible-xs"></i>
+							
+							<a datalayer-id="frequentFlyer" role="menuitem" aria-haspopup="true" aria-controls="item_6" aria-expanded="false" class="MainNav-menuLink NoFocusable" href="https://latampass.latam.com/es_co/" title="LATAMPass" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+								<span class="MainNav-textBold">LATAM</span>
+								<span class="MainNav-textDefault">Pass</span>
+								<span class="icon-chevron-down-rounded MainNav-downCaret MainNav-downCaret &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;             MainNav-downCaret MainNav-downCaret MainNav-downCaret  icon-xsmall"></span>
+								<div class="SubMenu-arrow"></div>
+								
+								
+							</a>
+						</div>
+		
+						<div id="item_6" class="SubMenu Sub-Menu">
+							<div class="SubMenu-content clearfix"> 
+								
+	<div class="col-xs-3 SubMenu-aside SubMenu-aside--secondVersion text-center sub-nav-group" style="background: url('')">
+	    <div class="SubMenu-subContent sub-nav-group">
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/latam-pass/socios-elite/como-ser-un-socio-elite/" title="Cómo ser socio Elite" target="_self" class="SubMenu-link subnav-item NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp001"></span>
+                    <span class="SubMenu-linkText">Cómo ser socio Elite</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/es_co/apps/personas/cartola#/" title="Mi cuenta " target="_self" class="SubMenu-link subnav-item NoFocusable" datalayer-id="exchangeKMForTickets" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-int007"></span>
+                    <span class="SubMenu-linkText">Ingresa a Mi cuenta</span>
+                </a>
+            </div>
+	    
+            <div class="SubMenu-linkList">
+                <a href="https://www.latam.com/retros/" title="Suma tus millas pendientes" target="_blank" class="SubMenu-link subnav-item NoFocusable" datalayer-id="promocionesConKMs" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                    <span class="SubMenu-iconText icon-large icon-regular-ffp006"></span>
+                    <span class="SubMenu-linkText">Suma tus millas pendientes</span>
+                </a>
+            </div>
+	    </div>
+	</div>
+
+								
+								
+	<div class="SubMenu-table">
+	    <div class="SubMenu-row">
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell ">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Acumula millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-acumular-millas/volando/en-latam-airlines/" title="En tus viajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				En tus viajes 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://sp.booking.com/?aid=1302932" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://ssl.lan.com/cgi-bin/compra_kilometros/paso1.cgi" title="Compra millas" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Compra millas 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://club.latampass.latam.com/" title="Club LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Club LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/cobranding/" title="Tarjeta Visa LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Tarjeta Visa LATAM Pass 
+		</a>	
+	</li>
+             	
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+             	
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Canjea tus millas
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/como-canjear-millas/por-pasajes/" title="Pasajes" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Pasajes 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://catalogo.co.latampass.latam.com/" title="Catálogo LATAM Pass" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Catálogo LATAM Pass 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="http://canjehoteles.latam.com/" title="Hoteles" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Hoteles 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/upgrade-de-cabina/con-tus-millas-latam-pass" title="Upgrade de Cabina" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Upgrade de Cabina 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/canjea-tus-millas/amazon" title="Canje en Amazon" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Canje en Amazon 
+		</a>	
+	</li>
+ 
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://latampass.latam.com/es_co/" title="Ver más..." target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más... 
+		</a>	
+	</li>
+ 
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	
+	        <div class="col-xs-4">
+		        <div class="last SubMenu-cell sub-nav-group">
+		            <div class="SubMenu-section ">
+		                <h3 class="SubMenu-title">
+		                	Beneficios
+		                </h3>
+		                <ul class="list-unstyled SubMenu-Menu sub-nav-group">
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upg" title="Postula a un Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Postula a un Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/upgrequestlist#search" title="Revisa tu postulación a Upgrade" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Revisa tu postulación a Upgrade 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/apps/personas/mybookings" title="Adelanta y posterga tu vuelo" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Adelanta y posterga tu vuelo 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/asiento-favorito/" title="Asiento LATAM+" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Asiento LATAM+ 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Selección de asiento" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Selección de asiento 
+		</a>	
+	</li>
+
+		                
+		                	
+	<li>
+		<a class="SubMenu-link subnav-item NoFocusable" href="https://www.latam.com/es_co/latam-pass/socios-elite/beneficios-elite/" title="Ver más beneficios" target="_self" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Ver más beneficios 
+		</a>	
+	</li>
+
+		                </ul>
+		            </div>
+		        </div>
+	        </div>
+	    </div>
+	    
+	    
+	<div class="SubMenu-cell--horizontal sub-nav-group">
+		<a datalayer-id="frequentFlyerFooterBox" class="Btn btn-flat fourth-level btn-medium NoFocusable" href="https://latampass.latam.com/es_co/aerolineas-asociadas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			<span>Conoce a nuestras <b>Aerolíneas Asociadas</b></span>
+			<span class="icon-caret-right"></span>
+		</a>
+	</div>
+
+	</div>
+
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			
+		
+
+		
+
+	
+		<li class="firstMobileItemClasses MainNav-menuLink__signup MainNav-menuItem MainNav-menuItem--separator MainNav-menuItem--top visible-xs">							
+			<a href="https://www.latam.com/es_co/apps/personas/registration" title="Inscríbete en LATAM Pass" class="MainNav-menuLink NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+				Inscríbete en LATAM Pass
+			</a>
+		</li>  	  
+	
+
+	
+	
+	<li data-submenu-id="ayuda" role="presentation" ng-class="::{ 'isProcessMenuItem' : navProcess }" class="MainNav-menuItem MainNav-menuItem--top visible-xs">
+	    
+	    <i class="MainNav-icon icon-small  visible-xs"></i>
+		
+		<a href="https://www.latam.com/corporate/es_co/" title="Corporate" target="_blank" class="MainNav-menuLink NoFocusable" role="menuitem" aria-haspopup="true" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Corporate
+	    </a>
+	</li>
+<li data-submenu-id="ayuda" role="presentation" ng-class="::{ 'isProcessMenuItem' : navProcess }" class="MainNav-menuItem visible-xs">
+	    
+	    <i class="MainNav-icon icon-small  visible-xs"></i>
+		
+		<a href="https://helpdesk.latam.com/hc/es/" title="Centro de Ayuda" target="_self" class="MainNav-menuLink NoFocusable" role="menuitem" aria-haspopup="true" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+	        
+	        Centro de Ayuda
+	    </a>
+	</li>
+	
+
+
+        <li role="presentation" class="MainNav-countrySelector visible-xs" data-submenu-id="ayuda">
+            <div country-selector="" click-event="true">
+            	<a class="Header-complementaryLink countrySelector-flagLink NoFocusable" href="#" title="" aria-expanded="false" aria-controls="countrySelector-dropDown" role="button" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+    <span class="sr-only">Selecciona tu país para cambiar la versión del sitio</span>
+    <span class="countrySelector-countryText" aria-hidden="true">Colombia</span>
+    <span>
+        <span class="countrySelector-flagCaret countrySelector-flagCaret--inverse icon-int-caret-down"></span>
+    </span>
+</a>
+<div id="countrySelector-dropDown" aria-hidden="true" class="countrySelector-dropDown Sub-Menu">
+	<div class="container">
+		<div class="row">
+            <div class="countrySelector-ContentList">
+            	
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Sudamérica/South America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Far" data-homeinfo="es_ar" role="button" href="https://www.latam.com/es_ar/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ar"></span>Argentina</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="PT%2FBR" data-homeinfo="pt_br" role="button" href="https://www.latam.com/pt_br/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-br"></span>Brasil</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fcl" data-homeinfo="es_cl" role="button" href="https://www.latamairlines.com/cl/es" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-cl"></span>Chile</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="es%2Fco" data-homeinfo="es_co" role="button" href="https://www.latam.com/es_co/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-co"></span>Colombia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fec" data-homeinfo="es_ec" role="button" href="https://www.latamairlines.com/ecuador" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ec"></span>Ecuador</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpy" data-homeinfo="es_py" role="button" href="https://www.latam.com/es_py/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pr"></span>Paraguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fpe" data-homeinfo="es_pe" role="button" href="https://www.latam.com/es_pe/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-pe"></span>Perú</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fuy" data-homeinfo="es_uy" role="button" href="https://www.latam.com/es_uy/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uy"></span>Uruguay</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Norteamérica/North America</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fca" data-homeinfo="en_ca" role="button" href="https://www.latam.com/en_ca/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ca"></span>Canada</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fmx" data-homeinfo="es_mx" role="button" href="https://www.latam.com/es_mx/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-mx"></span>México</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fus" data-homeinfo="en_us" role="button" href="https://www.latam.com/en_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>United States (English)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fus" data-homeinfo="es_us" role="button" href="https://www.latam.com/es_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Español)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="pt%2Fus" data-homeinfo="pt_us" role="button" href="https://www.latam.com/pt_us/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-eu"></span>Estados Unidos (Português)</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Europa/Europe</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="deutsch%2Fde" data-homeinfo="de_de" role="button" href="https://www.latam.com/de_de/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-de"></span>Deutschland</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fes" data-homeinfo="es_es" role="button" href="https://www.latam.com/es_es/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-es"></span>España</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="fr%2Ffr" data-homeinfo="fr_fr" role="button" href="https://www.latam.com/fr_fr/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-fr"></span>France</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="it%2Fit" data-homeinfo="it_it" role="button" href="https://www.latam.com/it_it/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-it"></span>Italia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-uk"></span>United Kingdom</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fue" data-homeinfo="en_ue" role="button" href="https://www.latam.com/en_ue/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-ue"></span>Rest of Europe</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     		 <div class="col-sm-3 col-md-3">
+                        <ul class="countrySelector-unorderedList sub-nav-group">
+                        	<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Oceanía/Oceania</li>
+		    	     		
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fau" data-homeinfo="en_au" role="button" href="https://www.latam.com/en_au/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-au"></span>Australia</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fnz" data-homeinfo="en_nz" role="button" href="https://www.latam.com/en_nz/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-nz"></span>New Zealand</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    	
+	    	     	    			<li class="countrySelector-unorderedItem countrySelector-unorderedItem--title">Otros Países/Other countries</li>
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="en%2Fuk" data-homeinfo="en_uk" role="button" href="https://www.latam.com/en_uk/latam-airlines-south-africa/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-sa"></span>South Africa</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="espanol%2Fun" data-homeinfo="es_un" role="button" href="https://www.latam.com/es_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Otros países</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		
+		    	     			
+		    	     	    	
+		    	     	    		<li class="countrySelector-unorderedItem">
+                                        <a class="countrySelector-unorderedLink subnav-item NoFocusable" data-pcom="english%2Fun" data-homeinfo="en_un" role="button" href="https://www.latam.com/en_un/" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                                        	<span class="countrySelector-flagIcon lt-icon-otros_paises"></span>Other countries</a>
+                                    </li>
+		    	     	    	
+		    	     	    	
+		    	     		 
+		    	     	</ul>
+		    	     </div>	   	         	     
+    	     	
+    	     	
+    	     </div>
+		</div>
+	</div>
+</div>
+
+    		</div>
+        </li>
+    </ul>
+</nav>
+
+								</div>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+	</header>
+
+
+
+		
+		
+
+
+
+<hr class="page__component-separator" />
+
+<div class="container">
+	<div class="row">
+		
+		
+		
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<main role="main" class="ha-waypoint" id="maincontent">
+				<section class="maincontentsection">
+					<div><div class="editordetexto section">	
+	<div class="richtext">
+    	<p>La presente Información Complementaria para el Contrato de Transporte Aéreo de Colombia, contiene los derechos y obligaciones del pasajero y del transportador o del agente de viajes, cuando actúe en su nombre, en relación con los servicios aéreos comerciales de transporte público regular de pasajeros prestados por el transportista, las cuales no tienen carácter taxativo, sino enunciativo, y lo serán sin perjuicio de los derechos y obligaciones que estén señalados en el Código de Comercio y el Reglamento Aeronáutico para el Transporte Aéreo interno en Colombia y en los Convenios Internacionales del Sistema de Varsovia/29- La Haya/55, Montreal/99 y la Decisión 619 de la Comunidad Andina, o aquellos que los modifiquen o sustituyan, para el transporte aéreo internacional.</p>
+<p> </p>
+<h4><b>NORMAS GENERALES DEL TRANSPORTE AÉREO EN COLOMBIA DE CONFORMIDAD CON EL REGLAMENTO AERONÁUTICO DE COLOMBIA PARTE TERCERA</b><br />
+</h4>
+<p><b>Veracidad de la Información</b></p>
+<p>El pasajero debe suministrar a la aerolínea o al agente de viajes u otros intermediarios autorizados, información veraz sobre sus datos personales. Tales datos incluirán al menos, nombre completo, documento de identidad, dirección postal y electrónica domicilio y teléfono de contacto, en el lugar de adquisición del tiquete o de origen del viaje y el de destino, así como el nombre dirección y teléfono de una persona en cualquier lugar, a quien sea posible contactar en caso de accidente o de cualquier otra contingencia, respecto de la cual y para este efecto se entiende que el pasajero cuenta con la autorización del titular de estos datos. Si la información dada por el pasajero fuera errónea, incompleta o inexacta, no será responsabilidad de la empresa aérea la falta de información al pasajero sobre los cambios que ocurran en los vuelos e itinerarios.</p>
+<p>Los datos de la persona a contactar en caso de accidente o cualquier contingencia, deben ser suministrados por el pasajero al momento de la reserva o a más tardar, al momento de la adquisición del pasaje.</p>
+<p>Cuando la reserva o venta del pasaje sea efectuada por una Agencia de Viajes o representante, o por otro intermediario, estos deberán transferir tales datos al transportador; en caso contrario, asumirán la responsabilidad de contactar al usuario cuando sea requerido.</p>
+<p> </p>
+<p><b>Plazos para adquisición de tiquete</b></p>
+<p>Sí al momento de efectuar la reserva se le informa al pasajero que debe adquirir y pagar los tiquetes antes de una fecha determinada, en relación con ciertas tarifas, éste deberá hacerlo y acreditar el pago a más tardar en dicha fecha, acatando las condiciones aprobadas al transportador para la misma. En caso contrario la reserva podrá ser cancelada sin necesidad de aviso.</p>
+<p> </p>
+<p><b>Pago del precio</b></p>
+<p>Al momento de la adquisición del tiquete, el pasajero está obligado a pagar su precio conforme a la tarifa vigente en la forma acordada (efectivo, crédito, tarjeta de crédito, cheque, etc.).</p>
+<p> </p>
+<p><b>Excedentes</b></p>
+<p>El pasajero deberá pagar el excedente, en caso de que decida viajar haciendo uso de un cupo bajo una tarifa superior a la acordada previamente o por fuera de los términos pactados en las tarifas promocionales. Del mismo modo se le reembolsará el excedente en caso de viajar en una categoría o clase inferior a la adquirida.</p>
+<p> </p>
+<p><b>Confirmación de reservas</b></p>
+<p>Para la ejecución del transporte, no será necesario que el pasajero confirme previamente la reserva efectuada, a menos que el transportador lo solicite. No obstante, cuando el pasajero, habiendo adquirido tiquete y reserva para vuelo de ida y vuelta (round trip) o con conexión(es) decida no usar el tiquete para el trayecto de ida, o el previo a la conexión, por haber realizado dicho trayecto en otro vuelo de la misma o de otra empresa, o empleando otro medio de transporte; deberá avisar a la aerolínea, que si volará el trayecto siguiente o el de regreso, si así lo decide, confirmando de ese modo dicho cupo, lo cual deberá hacerse antes de la salida del vuelo correspondiente al primer trayecto, o a mas tardar una hora después. De no hacerlo, la aerolínea podrá disponer de la reserva hecha para el trayecto subsiguiente a la conexión y/o el de regreso, según el caso.</p>
+<p> </p>
+<p><b>Errores en la expedición del tiquete</b></p>
+<p>En caso de detectar el pasajero un error en la información contenida en el tiquete, atribuible a la aerolínea o su intermediario, puede tan pronto lo detecte, solicitar su inmediata corrección al transportador o agente. La corrección que se haga, no generará pago adicional alguno por parte del pasajero.</p>
+<p> </p>
+<p><b>Información sobre cambios</b></p>
+<p>En caso de producirse algún cambio en cuanto al vuelo, el horario o en general cualquier aspecto que afecte la reserva acordada, la aerolínea o la agencia de viajes por cuyo conducto se haya efectuado la reserva (si ésta última hubiese tenido conocimiento), deberá informarlo al pasajero por el medio más rápido posible (teléfono, fax, correo electrónico, etc.) a más tardar con veinticuatro (24) horas de antelación al vuelo.</p>
+<p>Se exceptúan de lo anterior, los cambios repentinos e imprevistos originados en situaciones como las de orden meteorológico, fallas técnicas, condiciones operacionales u otras ocurridas con menos de veinticuatro (24) horas de antelación al vuelo, que impidan su normal y puntual ejecución, los cuales pese a todo deberán ser informados al pasajero a la mayor brevedad que sea posible.</p>
+<p> </p>
+<p><b>Vigencia</b></p>
+<p>El tiquete tendrá una vigencia máxima de un (1) año, sin perjuicio de que el transportador la prorrogue, o tendrá la vigencia especial de la tarifa en que se adquirió.</p>
+<p>Una vez expirado el término anterior, si el pasajero decide viajar, la aerolínea o la agencia reexpedirá un nuevo tiquete, sin perjuicio de los costos adicionales que deba asumir el pasajero en consideración a la tarifa vigente. Del mismo modo, si el pasajero decide no viajar tendrá derecho a que la aerolínea le reembolse el valor pagado por el tiquete, sin perjuicio de las reducciones a que haya lugar.</p>
+<p> </p>
+<p><b>Cancelación o cambio de reserva</b></p>
+<p>Cuando la reserva no se vaya a utilizar, el pasajero deberá cancelarla con antelación no inferior a veinticuatro (24) horas al vuelo, a menos que se trate de regreso el mismo día.</p>
+<p>Cualquier cambio pretendido en su reserva, deberá solicitarlo con la misma antelación siempre que no se trate de tarifas que tengan restricciones y deberes especiales de confirmación, asumiendo eventuales sobrecostos según las condiciones de la tarifa y las disponibilidades del cupo.</p>
+<p> </p>
+<h4>Facultades del pasajero para ejercer el Desistimiento o Retracto</h4>
+<p><b>Desistimiento</b></p>
+<p>En aplicación del artículo 1878 del Código de Comercio, el pasajero podrá desistir del viaje antes de su iniciación, dando aviso al transportador o a la agencia de viajes con al menos veinticuatro (24) horas de antelación a la realización del vuelo.</p>
+<p>El transportador o agencia de viajes, de acuerdo con las condiciones de la tarifa, podrá retener el porcentaje pactado, el cual no podrá ser superior al 10% del valor recibido por concepto de tarifa, excluyendo tasas, impuestos y tarifa administrativa. La retención que se hace al pasajero se efectuará a favor del transportador.</p>
+<p>Lo dispuesto en el presente numeral no aplicará cuando se trate de tarifas promocionales, salvo que sea ofrecido por el transportador, en cuyo evento se aplicará de conformidad con las condiciones ofrecidas.</p>
+<p>En caso de desistimiento, la aerolínea o agencia que haya efectuado la venta del tiquete, dará orden a la entidad financiera de la devolución correspondiente en un término no mayor a cinco (5) días hábiles siguientes a la solicitud del pasajero. La aerolínea y/o agente de viajes, deberá reembolsar el dinero al pasajero en un plazo máximo de treinta (30) días calendario a partir de la comunicación del desistimiento. Si el pasajero desiste del viaje dando aviso a la agencia de viajes que realizó la venta del tiquete como intermediario, esta procederá al reembolso del dinero al pasajero una vez la aerolínea ponga a su disposición el monto correspondiente, sin perjuicio del plazo de treinta (30) días previsto en el inciso anterior para que el reembolso del dinero al pasajero se haga efectivo.</p>
+<p> </p>
+<p><b>Derecho de Retracto</b></p>
+<p>Informamos que en virtud de medida cautelar que se emitió el 28 de noviembre de 2019 con No. de radicado 11001-03-24-000-2017-00239-00 por parte del Consejo de Estado, la cual suspende provisionalmente el Derecho de Retracto establecido en los Reglamentos Aeronáuticos de Colombia, y deja en aplicación el Derecho de Retracto establecido en el Estatuto del Consumidor (Ley 1480 de 2011), el cual aplicará así, para compras de tiquetes aéreos y servicios adicionales realizados a partir de 29 de noviembre de 2019:</p>
+<ul>
+<li>Para compras realizadas por medios no tradicionales o a distancia.</li>
+<li>El término máximo para ejercer el derecho de retracto será de cinco (5) días hábiles contados a partir del día de la compra del tiquete aéreo.</li>
+<li>Aplica, siempre y cuando el servicio no haya tenido que ejecutarse durante los mismos cinco (5) días hábiles.</li>
+<li>No se podrá generar retención alguna, procede la devolución total.</li>
+<li>No procede devolución de tarifa administrativa, de conformidad con lo establecido en la Resolución 3596 de 2006.</li>
+</ul>
+<p>Para compras realizadas con anterioridad a esta fecha, aplica lo normado en los Reglamentos Aeronáuticos de Colombia, así:</p>
+<p>Retracto en caso de ventas efectuadas a través de métodos no tradicionales o a distancia a que se refiere el Decreto 1499 de 2014</p>
+<p>En los contratos para la prestación del servicio de transporte aéreo de pasajeros que se perfeccionen a través de los mecanismos de venta a que se refiere Decreto 1499 de 2014, se entenderá pactado el derecho de retracto en favor del adquirente del tiquete.</p>
+<p>El ejercicio del derecho estará sujeto a las siguientes reglas:</p>
+<p>El retracto deberá ser ejercido, a través de cualquier canal de atención del vendedor, dentro de las cuarenta y ocho (48) horas corrientes siguientes a la operación de compra.</p>
+<p>El retracto solo podrá ser ejercido con una anterioridad igual o mayor a ocho (8) días calendario entre el momento de su ejercicio oportuno y la fecha prevista para el inicio de la prestación del servicio para operaciones nacionales. En caso de operaciones internacionales, el término será igual o mayor a quince (15) días calendario.</p>
+<p>La retención que se hace al pasajero se efectuará a favor del transportador. Será equivalente a sesenta mil pesos ($60.000.oo) para tiquetes nacionales o a cincuenta dólares estadounidenses (US$50) para tiquetes internacionales, aplicando la tasa de cambio oficial aprobada por el Banco de la República para el día en que el pasajero comunique al transportador o agente de viajes su decisión de retractarse. En todo caso, el valor retenido no podrá ser superior al diez por ciento (10%) del valor recibido por concepto de tarifa, excluyendo tasas, impuestos y tarifa administrativa.</p>
+<p>Las sumas establecidas en el presente numeral, serán reajustadas el primero de febrero de cada año de acuerdo con el aumento en el Índice de Precios al Consumidor (IPC) del año inmediatamente anterior.</p>
+<p>La aerolínea o agente de viajes que vendió el tiquete, deberá reembolsar el dinero al pasajero en un plazo máximo de treinta (30) días calendario a partir de la comunicación del retracto. Si el pasajero ejerce su derecho de retracto ante la agencia de viajes que realizó la venta del tiquete como intermediario, esta procederá al reembolso del dinero a que haya lugar, una vez la aerolínea ponga a su disposición el monto correspondiente, sin perjuicio del plazo de treinta (30) días previsto en el inciso anterior para que el reembolso del dinero al pasajero se haga efectivo.</p>
+<p>El pasajero tendrá derecho a la devolución de la tasa aeroportuaria. Se excluyen aquellas tasas, impuestos y o contribuciones que por regulación no sean reembolsables.</p>
+<p> </p>
+<p><b>Información sobre requerimientos especiales del pasajero</b></p>
+<p>En caso de necesitar el pasajero alguna condición o dispositivo especial para el vuelo, tales como oxígeno de uso médico o silla de ruedas, deberá hacerse el requerimiento al momento de solicitar la reserva, o con no menos de la veinticuatro (24) horas de antelación al vuelo, para que dichos elementos le sean reservados, si la aerolínea dispone de ese servicio. En todo caso, el transportador deberá contar con el equipamiento y la logística apropiada para el embarque, desembarque y movilización segura de este tipo de pasajeros, evitando todo procediendo que de forma alguna pueda ponerlo en riesgo, causarle dolor, o agravar su condición.</p>
+<p>Si el pasajero llevase consigo alguna mascota, deberá igualmente, al momento de la reserva o con al menos veinticuatro (24) de antelación al vuelo, informarlo indicando si requerirá un guacal para su transporte, a fin de que le sea reservado.</p>
+<p>Así mismo, el pasajero deberá informar si llevará consigo algún elemento de difícil manejo o que sea objeto de algún tipo de restricción, o que implique el empleo de dispositivos o procedimientos especiales para su transporte, para que igualmente le sean reservados si la aerolínea dispone de dicho servicio.</p>
+<p> </p>
+<p><b>Cuidados para pasajeros enfermos, dementes o menores</b></p>
+<p>En aplicación del artículo 1005 del Código de Comercio, cuando el transportador a sabiendas, admita a bordo pasajeros enfermos, dementes o menores de edad, deberá prestarles dentro de sus posibilidades, los cuidados ordinarios que exija su estado o condición. Así mismo prestará auxilio y los cuidados que estén a su alcance en relación con pasajeros que súbitamente sufran lesiones o presenten alguna enfermedad durante el vuelo.</p>
+<p>Para el transporte de tales pasajeros, la aerolíneas deberá exigir un certificado suscrito por un médico expedido con una antelación no superior a doce (12) horas al vuelo, conforme lo exige el capítulo VIII del Manual de Operaciones Aeroportuarias, con indicación de su respectivo registro profesional, en donde consten las condiciones de salud del pasajero y su aptitud para el viaje. Del mismo modo y dependiendo de las condiciones del pasajero, se podrá exigir que un médico o cualquier otra persona idónea para el caso, lo asista a su costa durante el viaje, a menos que el médico certifique que no es necesario.</p>
+<p>Conforme a las condiciones señaladas anteriormente, la aerolínea podrá cobrar cargos adicionales en caso de requerirse la asignación de personal para la atención del pasajero o cualquier cuidado que implique costos para ella.</p>
+<p>La política de transporte de pasajeros con necesidades medicas especiales establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página WEB Necesidades Médicas.</p>
+<p> </p>
+<p><b>Transporte de menores</b></p>
+<p>Para el transporte de menores de edad, sus padres o representantes deberán presentar una copia del registro civil o documento equivalente para su identificación.</p>
+<p>Un pasajero adulto puede viajar en trayectos nacionales con un niño menor de dos (2) años sin pagar tarifa alguna por éste, siempre y cuando el menor viaje en sus brazos y no ocupe una silla. A los niños menores de doce (12) años, se les cobrará en vuelos nacionales una tarifa máxima equivalente a las dos terceras partes (2/3) de la tarifa correspondiente, con derecho a ocupar silla.</p>
+<p>Los beneficios de que tratan los párrafos anteriores no serán obligatorios para la aerolínea cuando se trate de tarifas promocionales, debidamente registradas.</p>
+<p>Los pasajeros menores de que trata el presente numeral, en caso de no viajar con sus padres o representante legal o un adulto responsable autorizado por aquellos, deberán hacerlo recomendados a la aerolínea, conforme a las condiciones señaladas por ésta, la cual podrá cobrar cargos adicionales en caso de requerirse la asignación de personal adicional para la custodia del menor o cualquier cuidado adicional que implique costos para ella; dichos cargos deben ser de público conocimiento y serán informados a quién, a nombre del menor pasajero, adquiera el tiquete, al momento de hacerlo.</p>
+<p>Los padres o representantes legales del menor, deberán dar los datos personales de la persona autorizada para recoger al menor en el lugar de destino, respecto de la cual y para este efecto se entiende que cuentan con la autorización del titular de esos datos.</p>
+<p>Las aerolíneas en el transporte de los pasajeros menores de que trata esta parte, deben sujetarse a lo establecido en la Ley 1098 de 2006 de infancia y adolescencia, principalmente en lo establecido en los artículos 89 numeral 11, de dicha Ley; en lo referente al apoyo de la autoridad policial, de migración y demás autoridades competentes, en lo tocante a la vigilancia permanente del tránsito de niños, niñas y adolescentes en los terminales terrestres, aéreos y marítimos y el artículo 110 en lo referente a los permisos para salir del país.</p>
+<p>La política de transporte de menores no acompañados establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página WEB Servicio de menor no acompañado.</p>
+<p>Con el fin de evitar la explotación sexual de niños, niñas y adolescentes, toda empresa de servicios aéreos comerciales de transporte público adoptará, de conformidad lo previsto en la Ley 679 de 2001, adicionada por la Ley 1336 de 2009, y en la Resolución 04311 de 2010 de la Unidad Administrativa Especial de Aeronáutica Civil, un protocolo de autorregulación o Código de Conducta, documento que debe ser acatado por sus representantes legales, directores, administradores, empleados y contratistas vinculados a la prestación de servicios de transporte aéreo.</p>
+<p>La política para la prevención de la explotación sexual de niños, niñas y adolescentes establecida por el transportista en atención a la normatividad vigente puede ser consultada <a href="https://s.latamstatic.com/content/dam/LATAM/LAN/PDF/ES/codigo_conducta_prevencion_explotacion_ninos.pdf" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">aquí</a>.</p>
+<p><b>Mujeres en estado de embarazo</b></p>
+<p>En el caso de mujeres en estado de embarazo, no deberán viajar por vía aérea si el período de gestación supera las treinta (30) semanas, a menos que el viaje sea estrictamente necesario. En todo caso, tales pasajeras deberán suscribir y presentar al transportador un documento avalado con una certificación médica acerca de su aptitud para el viaje, descargando la responsabilidad de la compañía ante cualquier eventualidad que surja de su estado durante el vuelo.</p>
+<p>La certificación médica antes indicada deberá tener en cuenta el trayecto y tiempo de duración del vuelo y ser expedida dentro de los diez (10) días, antes del vuelo.</p>
+<p>Consulta la política de transporte para mujeres en <a href="/es_co/informacion-para-tu-viaje/necesidades-especiales/embarazadas/" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">estado de embarazo</a> establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página web.</p>
+<p> </p>
+<p><b>Presentación del pasajero</b></p>
+<p>El pasajero deberá presentarse al aeropuerto de salida y realizar su chequeo dentro del tiempo indicado por la agencia de viajes o por la aerolínea al momento de adquirir su tiquete o reserva. A falta de tal indicación, deberá hacerlo por lo menos con una (1) hora de antelación a la salida de los vuelos nacionales y de dos (2) horas a la salida de vuelos internacionales.</p>
+<p>Cuando el pasajero no se presente al vuelo con la debida antelación a su salida, el transportador podrá disponer de su cupo. No obstante, sí al momento de presentarse hubiese asientos disponibles y el vuelo no hubiera sido cerrado, podrá ser admitido.</p>
+<p>Si el pasajero no se presenta o se presenta extemporáneamente y no logra viajar, se le podrá asignar cupo y reserva en otro vuelo, caso en el cual el transportador le podrá imponer una penalidad que no exceda del diez por ciento (10 %) del valor pagado por el trayecto, exigible como condición previa al embarque.</p>
+<p> </p>
+<p><b>Identificación del pasajero</b></p>
+<p>El pasajero deberá identificarse y presentar sus documentos de viaje (tiquete, pasaporte, etc.) cuando se lo solicite el transportador o las autoridades de migración, policiales o aduaneras en los aeropuertos. Si el pasajero no presenta los documentos de identificación exigidos, la aerolínea podrá rehusarse a su embarque.</p>
+<p>Para el transporte de menores de edad, sus padres o representantes deberán presentar una copia del registro civil o documento equivalente para su identificación.</p>
+<p> </p>
+<p><b>Requisas y procedimientos de control</b></p>
+<p>El pasajero está obligado a acatar las normas sobre seguridad y operación aeroportuaria vigentes y a someterse a las requisas y demás procedimientos de control y medidas de seguridad dispuestos por la autoridad aeroportuaria o la aerolínea respectiva durante el embarque, el vuelo y el desembarque. En caso de pedirse identificar el equipaje antes del embarque, ni el pasajero ni su equipaje podrá embarcar si tal procedimiento no se agota.</p>
+<p> </p>
+<p><b>Cancelación, interrupción o demora</b></p>
+<p>De conformidad con lo dispuesto por el artículo 1882 del Código de Comercio, cuando el viaje no pueda iniciarse en las condiciones estipuladas o se retrase su iniciación por causa de fuerza mayor o por razones meteorológicas que afecten su seguridad, el transportador quedará liberado de responsabilidad devolviendo el precio del billete. El pasajero podrá en tales casos, exigir la devolución inmediata del precio total sin que haya lugar a penalidad alguna.</p>
+<p>Si una vez comenzado el viaje este se interrumpiere por cualquiera de las causas señaladas en el inciso anterior, el transportador quedará obligado a efectuar el transporte de viajeros y equipajes por su cuenta, utilizando el medio más rápido posible hasta dejarlos en su destino, salvo que los pasajeros opten por el reembolso de la parte del precio proporcional al trayecto no recorrido.</p>
+<p>También sufragará el transportador los gastos razonables de manutención y hospedaje que se deriven de cualquier interrupción.</p>
+<p> </p>
+<p><b>Compensaciones al pasajero</b></p>
+<p>En los casos de cancelaciones, interrupciones o demoras en que no haya tenido lugar el reembolso, o ante cualquier otro evento que sea imputable al transportador, así como en los eventos de sobreventa de cupos, éste compensará al pasajero conforme a lo siguiente:</p>
+<p>(a) Demoras. Cuando haya demora en la iniciación del vuelo (inicio del rodaje inmediatamente precedente al despegue) y no se cumpla con el horario programado del vuelo, autorizado por la Aeronáutica Civil de Colombia, se observará lo siguiente:</p>
+<p>(1) Cuando la demora sea mayor de una (1) hora e inferior a tres (3), se suministrará al pasajero un refrigerio y una comunicación telefónica que no exceda de tres (3) minutos o por el medio más ágil disponible al lugar de destino, o al de origen en caso de conexiones, a requerimiento del pasajero. No obstante, cuando la causa de la demora haya sido superada y sea previsible la pronta salida del vuelo, (dentro de los quince (15) minutos siguientes), el transportador podrá abstenerse de suministrar esta compensación, si al hacerlo se diera una mayor demora.</p>
+<p>(2) Cuando la demora sea superior a tres (3) horas e inferior a cinco (5), además de lo anterior, se deberá proporcionar al pasajero alimentos (desayuno, almuerzo o cena, según la hora).</p>
+<p>(3) Cuando la demora sea superior a cinco (5) horas, además de lo anterior, el transportador deberá compensar al pasajero conforme a lo establecido en el literal (f) Sin embargo, cuando esta demora sobrepase de las 10: 00 PM (hora local), la aerolínea deberá proporcionarle, además, hospedaje (si no se encuentra en su lugar de residencia) y gastos de traslado entre el aeropuerto y el lugar de hospedaje y viceversa, a menos que el pasajero acepte voluntariamente prolongar la espera cuando sea previsible que el vuelo se va a efectuar dentro de un plazo razonable.</p>
+<p>(b) Interrupción del transporte. En los casos de interrupción del transporte, conforme a lo previsto en el numeral anterior, si el pasajero no opta por la devolución de la parte proporcional del precio correspondiente al tramo no cubierto, se le compensará la demora sufrida hasta la reanudación del viaje, conforme a lo indicado en el literal (a) precedente.</p>
+<p>(c) Cancelación. En los casos que la aerolínea decida cancelar el vuelo, teniendo el pasajero reserva confirmada, sin que se hubiese reintegrado el precio del pasaje conforme lo dispuesto en el numeral 3.10.2.13.1 del Reglamento Aeronáutico de Colombia, se le sufragarán al pasajero los gastos de hospedaje (si no se encuentra en su lugar de residencia) y gastos de traslado entre el aeropuerto y el lugar de hospedaje y viceversa. Además, si se presenta demora antes de la cancelación del vuelo, el pasajero recibirá las compensaciones previstas en el literal a) según corresponda.</p>
+<p>En los casos en que la cancelación no obedezca a fuerza mayor o razones meteorológicas que afecten la seguridad, además de la devolución del precio pagado por el trayecto correspondiente al vuelo cancelado, se pagará al pasajero una compensación adicional en la forma prevista en el literal (f).</p>
+<p>Si debido a la cancelación u otra circunstancia, el pasajero fuera transferido a otro vuelo de la misma o de otra aerolínea, se le compensará conforme corresponda al tiempo de espera hasta que salga ese otro vuelo. Si el mismo saliera antes de seis (6) horas, contadas desde la hora prevista para la salida del vuelo original, no habrá lugar a la compensación adicional de que trata el literal (f).</p>
+<p>(d) Sobreventa. Si el embarque es denegado por sobreventa o por cualquier otro motivo imputable a la aerolínea, teniendo el pasajero reserva hecha y habiéndose presentado oportunamente en el aeropuerto, el transportador deberá proporcionar el viaje del pasajero a su destino final en el siguiente vuelo disponible de la propia aerolínea, en la misma fecha y en la misma ruta. En caso de no disponer de vuelo, el transportador deberá hacer las gestiones necesarias, por su cuenta, para embarcar al pasajero en otra aerolínea, a la mayor brevedad posible.</p>
+<p>(e) Anticipación del vuelo. Cuando la aerolínea anticipe el vuelo en más de una hora, sin avisar al pasajero, o cuando habiéndole avisado le resulte imposible viajar en el nuevo horario impuesto, se le deberá proporcionar el viaje a su destino final en el siguiente vuelo que le resulte conveniente de la propia aerolínea, en la misma ruta.</p>
+<p>En caso de no disponer de vuelo, el transportador deberá hacer las gestiones necesarias, por su cuenta, para embarcar al pasajero en otra aerolínea, a la mayor brevedad posible.</p>
+<p>En estos casos el pasajero no pagará ningún excedente si el nuevo cupo correspondiera a una tarifa superior; de no aceptar el pasajero ninguna de estas alternativas, podrá exigir la devolución del precio pagado por el trayecto o trayectos, sin penalización alguna.</p>
+<p>(f) Compensación adicional. La aerolínea deberá compensar al pasajero con una suma adicional, equivalente mínimo al treinta por ciento (30%) del valor del trayecto pagadera en dinero efectivo, a menos que el pasajero acepte expresamente otra forma, como tiquetes en las rutas de la aerolínea, bonos para adquisición de tiquetes, reconocimiento de millas, etc., en los siguientes casos:</p>
+<p>(1) Sobreventa, cuando no medie acuerdo directo con el pasajero, en el que éste acepte voluntariamente no viajar en el vuelo previsto.</p>
+<p>(2) Demora superior a cinco (5) horas, por causas imputables al transportador.</p>
+<p>(3) Cancelación del vuelo por causa imputable al transportador.</p>
+<p>Para efectos de determinar el valor de la compensación por un solo trayecto, se multiplicará el precio total pagado del tiquete por la relación entre la distancia de dicho trayecto sobre la distancia total.</p>
+<p>(g) Tránsitos y Conexiones. Las compensaciones anteriores serán igualmente aplicables en lo pertinente a los pasajeros en tránsito o conexión, en la misma aerolínea o bajo acuerdos de cooperación inter empresas, cuando no puedan continuar su viaje.</p>
+<p>En estos casos la aerolínea o aerolíneas verificarán que el pasajero sea efectivamente embarcado en el vuelo correspondiente a su siguiente trayecto y asumirán las demoras que le sean imputables, más allá de los tiempos de tránsito o conexión pactados con el pasajero.</p>
+<p><br />
+<b>Reembolsos</b></p>
+<p><b>Por desistimiento del pasajero</b></p>
+<p>En los casos de desistimiento del viaje por parte del pasajero, este tiene derecho al reembolso del valor pagado del tiquete, sin perjuicio de los porcentajes de reducción aplicables a favor de la aerolínea, conforme a los reglamentos de la empresa, aprobados por la Autoridad Aeronáutica (siempre que se trate de tarifas reembolsables).</p>
+<p>Cuando el desistimiento del pasajero se produzca como consecuencia de cualquier variación imputable a la aerolínea en la hora del vuelo, o de sus condiciones a tal punto que bajo las nuevas circunstancias, él estime que ya no le resulte útil o conveniente, no habrá lugar a ninguna penalidad o porcentaje de reducción para el reembolso.</p>
+<p>De acuerdo con lo establecido el Decreto 587 de 2016, expedido por la Ministerio de Comercio Industria y Turismo, los usuarios que lo requieran y que hayan realizado la compra de su tiquete mediante mecanismos de comercio electrónico, y/o cualquier otro mecanismo de televenta o tienda virtual, con el cual se haya utilizado para realizar el pago una tarjeta de crédito, débito o cualquier otro instrumento de pago electrónico, podrán solicitar la reversión de su pago dentro de los cinco días hábiles siguientes desde el momento en que identificó una de las únicas causas para ejercer este derecho.</p>
+<p>La solicitud deberá realizarse directamente en cualquiera de nuestras oficinas en todo el país y presentar dicha constancia ante la entidad financiera emisora de su tarjeta debito y/o crédito, la cual deberá proceder con la reversión del pago dentro de los 15 días siguientes a la interposición de la mencionada queja ante la entidad Bancaria.</p>
+<p>Es importante tener en cuenta que la figura de reverso de pago, aplica únicamente en caso de que haya habido fraude, corresponda a una operación no solicitada por el tarjetahabiente y el servicio adquirido no hubiere sido recibido.</p>
+<p>Para realizar si solicitud de reversión de pago, lo invitamos a acercarse a las oficinas de venta en todo el país en donde encontrará los formularios correspondientes para dicho proceso.</p>
+<p><b>Por incumplimiento del pasajero</b></p>
+<p>También habrá lugar al reembolso del valor del tiquete o de la parte proporcional al tramo o trayecto no cubierto, cuando por incumplimiento de sus obligaciones, conductas indebidas, o actos de perturbación por parte del pasajero, el transportador se vea en la necesidad de abstenerse de transportarlo o interrumpir el transporte. En estos casos el transportador podrá retener el porcentaje de reducción así como los valores correspondientes a los costos o demoras en que incurra con ocasión de tales conductas.</p>
+<p> </p>
+<p><b>Tipo de moneda</b></p>
+<p>Todo reembolso que se efectúe en Colombia, deberá pagarse en pesos colombianos.</p>
+<p>Cuando se trate de tiquetes internacionales valorados en dólares, se aplicará la tasa de cambio vigente de acuerdo con la Ley, al momento de la compra.</p>
+<p> </p>
+<p><b>Inmediatez del reembolso</b></p>
+<p>En cumplimento del artículo 1882 del Código de Comercio, todo reembolso deberá hacerse efectivo tan pronto se reciba la solicitud del pasajero luego de ocurrida la cancelación, retraso, interrupción, desistimiento o circunstancia que dé lugar a él.</p>
+<p>A los fines de este numeral, se considerará que el reembolso ha sido inmediato, en el caso de pagos hechos de contado, en dinero efectivo, si el mismo se produce dentro de las seis (6) horas hábiles siguientes a la solicitud. En el caso de pagos hechos mediante tarjeta de crédito, u otros medios de pago diferidos, o medios electrónicos, si dentro de los cinco (5) días hábiles siguientes a la solicitud, se produce la orden a la entidad financiera u otro intermediario, según corresponda, para que proceda a hacer efectiva la devolución.</p>
+<p>Si se presentasen circunstancias que impidieran el reembolso, en los términos indicados, estas deberán informarse al pasajero, indicándole la fecha en que este tendrá lugar, el cual en todo caso deberá hacerse dentro de los cinco (5) días hábiles siguientes al vencimiento del término correspondiente.</p>
+<p>En cualquier caso, la aerolínea podrá hacer las averiguaciones que estime conducentes a establecer la pertinencia del reembolso y en caso de no serlo, así lo informará al pasajero dentro del término correspondiente, lo cual no impide que éste adelante las acciones judiciales o administrativas que considere necesaria.</p>
+<p>La política de devoluciones establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página WEB http://www.lan.com/cgi-bin/devoluciones/formulario_devoluciones.cgi</p>
+<p>De acuerdo con lo establecido el Decreto 587 de 2016, expedido por la Ministerio de Comercio Industria y Turismo, los usuarios que lo requieran y que hayan realizado la compra de su tiquete mediante mecanismos de comercio electrónico, y/o cualquier otro mecanismo de televenta o tienda virtual, con el cual se haya utilizado para realizar el pago una tarjeta de crédito, débito o cualquier otro instrumento de pago electrónico, podrán solicitar la reversión de su pago dentro de los cinco días hábiles siguientes desde el momento en que identificó una de las únicas causas para ejercer este derecho.</p>
+<p>La solicitud deberá realizarse directamente en cualquiera de nuestras oficinas en todo el país y presentar dicha constancia ante la entidad financiera emisora de su tarjeta debito y/o crédito, la cual deberá proceder con la reversión del pago dentro de los 15 días siguientes a la interposición de la mencionada queja ante la entidad Bancaria.</p>
+<p>Es importante tener en cuenta que la figura de reverso de pago, aplica únicamente en caso de que haya habido fraude, corresponda a una operación no solicitada por el tarjetahabiente y el servicio adquirido no hubiere sido recibido.</p>
+<p>Para realizar si solicitud de reversión de pago, lo invitamos a acercarse a las oficinas de venta en todo el país en donde encontrará los formularios correspondientes para dicho proceso.<br />
+</p>
+<h4>EQUIPAJES</h4>
+<p><b>Tipo de equipaje</b></p>
+<p>El pasajero tiene derecho a transportar consigo y en el mismo vuelo la cantidad de equipaje que le indique el transportador de acuerdo con la capacidad de la aeronave y en todo caso, dentro de los cupos previstos en las normas aplicables. El pasajero tiene derecho a transportar consigo y en el mismo vuelo la cantidad de equipaje que le indique el transportador de acuerdo con la capacidad de la aeronave y en todo caso, dentro de los cupos previstos en las normas aplicables.</p>
+<p>A falta de otra estipulación aprobada a la aerolínea, la cantidad de equipaje se limitará para vuelos nacionales a 20 Kilos en clase económica y a 30 en clase ejecutiva. Para vuelos internacionales el límite será de 40 Kilos. En aeronaves de menor capacidad estos cupos podrán ser reducidos. El transporte del equipaje, dentro del peso permitido, va incluido en el precio del pasaje.</p>
+<p>El equipaje puede ser transportado como equipaje de mano en la cabina de pasajeros, cuando por su peso, características y tamaño sea factible; o como equipaje facturado o registrado en las bodegas de la aeronave.</p>
+<p>Se entiende como equipaje de mano u objetos de mano, aquellos elementos requeridos por el pasajero que no sean prohibidos o peligrosos y cuyo peso y volumen permita su transporte en los portaequipajes ubicados arriba de los asientos o debajo de estos. Su peso no afectará el peso máximo admisible del equipaje de cada pasajero.</p>
+<p> </p>
+<p><b>Artículos de difícil transporte</b></p>
+<p>El pasajero no podrá incluir en su equipaje facturado artículos frágiles o perecederos, dinero, joyas, piedras o metales preciosos, platería, documentos negociables, títulos u otros valores; dinero en efectivo, pasaportes, cámaras fotográficas o de video, filmadoras, computadoras, tabletas electrónicas, teléfonos móviles, calculadoras, lentes, botellas con licor o perfumes, entre otros, respecto de los cuales el transportador no se responsabiliza si se transportan en esas condiciones. Tales elementos deben ser transportados a la mano, o en el equipaje de mano, si sus características lo permiten, bajo la custodia y responsabilidad del propio pasajero.</p>
+<p>La política de equipaje establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página WEB Política de Equipaje.</p>
+<p> </p>
+<p><b>Tiempo para reclamación por fallas en el transporte de equipaje</b></p>
+<p>El transportador deberá atender la reclamación por pérdida, saqueo, destrucción total o parcial, avería, o retraso, del equipaje facturado, siempre que ésta sea presentada por el pasajero dentro de los siguientes términos:</p>
+<p>a) En caso de pérdida, saqueo, destrucción total o parcial, o avería del equipaje, el pasajero deberá presentar al transportador una protesta escrita inmediatamente después de haber sido notada esta, o a más tardar, dentro de un plazo de siete (7) días, a partir de la fecha de su recibo, o de la fecha en que dicho equipaje debió llegar a su destino.</p>
+<p>b) En caso de retraso, la protesta deberá hacerla a más tardar dentro de (21) veintiún días, a partir de la fecha en que el equipaje debió llegar a su destino, o de la fecha en que haya sido puesto a su disposición.</p>
+<p>c) En aplicación del Artículo 1028 del código de comercio, una vez recibido el equipaje transportado, sin observaciones, se presumirá cumplido el contrato.</p>
+<p>En los casos de pérdida parcial, saqueo o avería notorios o apreciables a simple vista la protesta deberá formularse en el acto de la entrega y recibo del equipaje.</p>
+<p>Cuando por circunstancias especiales que impidan el inmediato reconocimiento del equipaje, sea imposible apreciar su estado en el momento de la entrega, podrá el destinatario recibirlo bajo la condición de que se haga su reconocimiento. El examen se hará en presencia del transportador o de la persona por él designada, dentro de los tres (3) días siguientes a la fecha de la entrega.</p>
+<p> </p>
+<p><b>Compensaciones</b></p>
+<p>Si el equipaje acompañado o no, de un pasajero no llega, o si llega en otro vuelo, de modo que implique espera para su dueño o que tenga que regresar al aeropuerto para reclamarlo, el costo de los traslados hasta y desde el aeropuerto si son necesarios, serán asumidos por el transportador. En tales casos, el transportador también le sufragará al pasajero los gastos mínimos por elementos de aseo personal, o le suministrará tales elementos. Si la demora del equipaje fuera superior veinticuatro (24) horas, la compensación incluirá además, una suma suficiente para adquirir prendas básicas de vestir, en todo caso no inferior al veinte por ciento (20%) del valor del trayecto por cada día de retraso, a cada pasajero afectado.</p>
+<p> </p>
+<p><b>Transporte de mascotas</b></p>
+<p>No se deberán llevar en la cabina de pasajeros animales o mascotas que puedan provocar riesgos o molestias a las demás personas a bordo. Dichos animales deberán viajar en las bodegas de carga, salvo autorización del transportador cuando se compruebe que tales especies no constituyen riesgo o molestia, o se trate de perros lazarillos para personas invidentes. En todo caso antes del transporte, el interesado deberá acreditar el cumplimiento de todos los requerimientos sanitarios formulados por la autoridad competente en el aeropuerto de origen (ICA - Sanidad Portuaria) lo que incluye entre otros, certificado de salud del animal, carné de vacunación e inspección a la mascota cuando se trate de vuelo internacional. El animal deberá viajar en jaula o guacal de que disponga el pasajero siempre que sea apto para su transporte, o previamente solicitado al transportador. El pasajero será responsable de las precauciones mínimas de higiene y sanidad de la mascota.</p>
+<p>La política de transporte de mascotas establecida por el transportista en atención a la normatividad vigente puede ser consultada en nuestra página WEB Cómo viajar con tu mascota.</p>
+<p> </p>
+<p><b>Autorización tratamiento de datos personales</b></p>
+<p>El pasajero autoriza al Transportador a realizar el tratamiento de sus datos personales, incluyendo: la recolección, el almacenamiento, el uso, la circulación, la supresión, el procesamiento, la transmisión y/o ​​la ​transferencia, para la ejecución de las actividades relacionadas con el servicio de transporte aéreo de pasajeros y carga contratado, y/o proveer los productos adquiridos, directamente y/o con la participación de terceros. Asimismo, autoriza al Transportador, a sus empresas asociadas y/o a los terceros aliados con los que éste tenga acuerdos comerciales, para consultar, compartir, intercambiar, obtener, suministrar, y en general, enviar y recibir por cualquier medio sus datos personales, con el fin de ofrecerle productos y/o servicios, siguiendo los lineamentos establecidos en la Política de Tratamiento de Datos Personales de LATAM Airlines Colombia.<br />
+</p>
+<p><a href="https://s.latamstatic.com/content/dam/LATAM/LAN/PDF/ES/Pol%C3%ADtica_Tratamiento_Datos_Personales_Colombia.pdf" target="_blank" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">Revisa la política de protección de datos personales</a></p>
+<h3> </h3>
+<h3>Servicio a Bordo:</h3>
+<p>Este servicio no es una obligación del transportador, y representa un valor agregado que ofrece LATAM Airlines Colombia a sus pasajeros.</p>
+<p>El servicio a bordo ofrecido por LATAM Airlines Colombia, es adicional al Transporte Aéreo, y genera un costo adicional el cual debe ser cubierto por el pasajero, cuando el mismo desee adquirir alguno de los productos que componen este Servicio.</p>
+<p>LATAM Airlines Colombia, se reserva el derecho de modificar las políticas de servicio a bordo, respecto de las cuales es deber del pasajero consultarlas en los canales de Atención de la Aerolínea.<br />
+</p>
+
+	</div>
+	
+
+
+    
+</div>
+
+</div>
+				</section>
+			</main>
+		</div>
+	</div>
+</div>
+
+
+		<div class="loyalty-program-info hidden" data-country="CO" data-latampass-redeem-currency="millas" data-latampass-full-redeem-currency="millas LATAM Pass" data-latamfidelidade-redeem-currency="puntos" data-latamfidelidade-full-redeem-currency="puntos Multiplus"></div>
+		
+		
+    
+         
+    
+<footer role="contentinfo" class="footer">
+  <div class="footer-content">
+    <div class="container">        
+        <div><div class="hidden-xs footer-contentLinks">
+    <div class="row">
+    	
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			<h3 class="footer-headLineH3">Conócenos</h3>
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/conocenos/" target="_self" title="Sobre nosotros" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sobre nosotros</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/prensa/" target="_self" title="Sala de prensa" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sala de prensa</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/conocenos/sostenibilidad/sobre-sostenibilidad/" target="_self" title="Sostenibilidad" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Sostenibilidad</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/a-medios-de-pago/medios-de-pago/" target="_self" title="Medios de pago" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Medios de pago</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://career8.successfactors.com/career?company=lan" target="_blank" title="Trabaja con nosotros" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Trabaja con nosotros</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamairlinesgroup.net/phoenix.zhtml?c=251289&amp;p=irol-irhome" target="_blank" title="Relación con inversionistas" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Relación con inversionistas</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/registro_nacional_turismo_latam_co.pdf" target="_blank" title="Registro Nacional de Turismo" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Registro Nacional de Turismo</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+            <h3 class="footer-headLineH3">Transparencia</h3>
+
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/PDF/guia-del-pasajero/Guia-pasajero-Colombia-dic-2019.pdf" target="_blank" title="Guía del pasajero derechos y deberes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Guía del pasajero derechos y deberes</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/condiciones-del-contrato-de-transporte/" target="_self" title="Contrato de transporte" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Contrato de transporte</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/seguridad-y-privacidad/seguridad/" target="_self" title="Seguridad y privacidad" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Seguridad y privacidad</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/cargos-por-combustible-y-por-servicio/tasas-cargos-e-impuestos-a-cargo-del-pasajero/" target="_self" title="Tasas, Cargos e Impuestos" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Tasas, Cargos e Impuestos</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/transparencia/terminos-de-uso/" target="_self" title="Términos de uso" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Términos de uso</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://s.latamstatic.com/content/dam/LATAM/LAN/PDF/ES/codigo_conducta_prevencion_explotacion_ninos.pdf" target="_self" title="Código conducta para prevención de explotación en menores" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Código conducta para prevención de explotación en menores</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamairlinesgroup.net/phoenix.zhtml?c=81136&amp;p=irol-newsArticle&amp;ID=2038435" target="_self" title="Intercambio de slots Sao Paulo (GRU)" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Intercambio de slots Sao Paulo (GRU)</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			
+        	
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/condiciones-tiquetes/" target="_blank" title="Condiciones tiquetes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Condiciones tiquetes</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/cotiza-y-compra/nuevas-tarifas/" target="_blank" title="Nuevas Tarifas Nacionales" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Nuevas Tarifas Nacionales</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latam.com/es_co/informacion-para-tu-viaje/tu-eliges-como-volar/dentro-sudamerica/" target="_blank" title="Nuevas Tarifas Internacionales" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Nuevas Tarifas Internacionales</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.derechosydeberes.co/" target="_blank" title="Conoce tus Derechos y Deberes" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Conoce tus Derechos y Deberes</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3">
+			<h3 class="footer-headLineH3">Portales asociados</h3>
+        	
+            <ul class="footer-unorderedList">
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamcargo.com/es/" target="_blank" title="LATAM Cargo" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">LATAM Cargo</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.latamtrade.com/es_co" target="_self" title="LATAM Trade" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">LATAM Trade</a>
+	    </li>
+	
+
+	            
+	            	
+	  
+	
+	    <li class="footer-unorderedItem--links">
+	      <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="https://www.aerocivil.gov.co/" target="_self" title="Aeronáutica civil" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Aeronáutica civil</a>
+	    </li>
+	
+
+	            
+            </ul>
+        </div>
+    </div>
+</div></div>
+        
+        <div>
+</div>
+        <div>
+<div class="row footer-socialRow">
+    <div class="footer-awardsAndCerts hidden-xs hidden-sm col-md-6 col-lg-6">
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Sitio certificado por:</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://sealsplash.geotrust.com/splash?&amp;dn=www.lan.com" target="_blank" title="Secured" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/logos-footer/download.png" alt="GeoTrust" />
+			                        <span class="sr-only">Secured</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Premios</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://www.latam.com/es_co/premios/" target="_self" title="Premios" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/logos-footer/logo_premio_para_puntocom.png" alt="Premios" />
+			                        <span class="sr-only">Premios</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+	        <div class="footer-awardsAndCertsBlock">
+	            <h4 class="footer-headLineH4">Vigilado por:</h4>
+	            <ul class="footer-unorderedList footer-unorderedList--awards">
+	            	
+	            		
+			                <li class="footer-unorderedItem--awards">
+			                    <a class="footer-awardsLink NoFocusable" href="https://www.supertransporte.gov.co/" target="_blank" title="Supertransporte" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+			                        <img class="footer-processCertificateImage" data-ptm-src="https://s.latamstatic.com/content/dam/LATAM/latam-marca-unica/Colombia/logo vigilado_principal.png" alt="Supertransporte" />
+			                        <span class="sr-only">Supertransporte</span>
+			                    </a>
+			                </li>
+	            		
+	            		
+	                
+	            </ul>
+	        </div>
+	    
+    </div>
+    <div class="footer-socialNetworkLinks col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <div class="footer-socialLinks">
+            <h4 class="footer-headLineH4 footer-socialHeader">
+                Síguenos en
+            </h4>
+            <ul class="footer-unorderedList--social list-inline">
+                <li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.facebook.com/LATAMColombia/" target="_blank" title="Facebook" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-facebook"></span>
+                       		<span class="sr-only">Facebook</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://twitter.com/LATAM_CO" target="_blank" title="Twitter" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-twitter"></span>
+                       		<span class="sr-only">Twitter</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.youtube.com/user/lanairlines" target="_blank" title="Youtube" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-youtube"></span>
+                       		<span class="sr-only">Youtube</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.instagram.com/latamairlines/" target="_blank" title="Instagram" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network icon-instagram"></span>
+                       		<span class="sr-only">Instagram</span>
+                    </a>
+                </li>
+<li class="footer-unorderedItem--social ">
+                    <a class="footer-unorderedLink NoFocusable" href="https://www.linkedin.com/company/latam_airlines" target="_blank" title="LnkedIn" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">
+                 		   <span class="icon-small footer-icon--medium icon-social-network "></span>
+                       		<span class="sr-only">LinkedIn</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+    </div>
+  </div>
+  <div><div class="footer-process">
+    <div class="container container-md-height">
+        <div class="row">
+            <div class="col-xs-12 hidden-sm hidden-md hidden-lg footer-contentLinks">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <ul class="list-inline footer-unorderedList">
+                                
+                                <li class="footer-unorderedItem--links">
+                                  <a class="footer-unorderedLink footer-unorderedLink--links NoFocusable" href="/es_cl/transparencia/" title="Información legal" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true">Información legal</a>
+                                </li>
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-brand col-xs-12 col-sm-3 col-md-3 col-lg-3 col-sm-push-9 col-md-push-9 col-md-push-9">
+                <a href="/es_co/" title="Volver al home" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true">
+                    <img data-ptm-src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/resources/design-image/latam/logo-footer.svg" alt="Logo LATAM" />
+                </a>
+            </div>
+            <div class="footer-copyArea col-xs-12 col-sm-9 col-md-9 col-lg-9 col-sm-pull-3 col-md-pull-3 col-lg-pull-3">
+                <div class="footer-processCopy col-md-12 col-lg-12">
+                    <p class="footer-paragraph--copy footer-copyright footer-paragraph--smToBlock">© 2020 LATAM Airlines Colombia</p>
+                    <p class="footer-paragraph--copy footer-copyright hidden-sm hidden-md hidden-lg"></p>
+                    
+                    <p class="footer-paragraph--copy footer-paragraph--smToInline hidden-xs">NIT: 890.704.196-6, Aerovias de Integración Regional S.A - Aires S.A. Av. El Dorado No.103-08 Entrada 1 - Hangar. customer_service@sac.latam.com, (+57) 1 7452020</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+</footer>
+	<img src="https://ssl.lan.com/akamai/pcom/es_co.gif" class="sr-only" aria-hidden="true" />
+    <script src="https://s.latamstatic.com/apps/datalayerservice/22.0.3/dist/js/analytics-sdk.js"></script>
+	
+
+
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+
+    
+    
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/jquery/v2.3.1.min.22acf6e91e87470f0df2b67394db1802.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/angular/v1.3.15.min.246f3e0aead8416fecb7b8f0c4e3c1d6.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/static/angular.min.7f2e5771f321742b16033caa3e10aa34.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/angular-commons.min.916163ec1c57b22d87658a48103593b1.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/shared/cross/scripts.min.6ffd8a04134b47cf594112adbd979cae.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/bootstrap/v3.3.4/cross/scripts.min.2ed55cd607a19a97bd812323a41b723a.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/menu-aim.min.94460ec9ca08ee5cfae7937aaef36304.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/clientlibs/external-dependencies/slick.min.b1f43ad51c40aa12485174b77faef5c9.js"></script>
+<script type="text/javascript" src="https://s.latamstatic.com/etc.clientlibs/latamApp/components/page/contenido/clientlibs/scripts.min.f01fc0ffb42c37cd7262c1f46e8d43e9.js"></script>
+
+
+
+
+    
+    
+
+
+    <script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/static/e42a67b9e7fti237025351e4663e8a092']); </script><script type="text/javascript" src="/static/e42a67b9e7fti237025351e4663e8a092"></script>
+
+<script type="text/javascript" id="" src="https://resources.digital-cloud.medallia.com/wdcus/58333/onsite/embed.js"></script><script type="text/javascript" async="" src="https://resources.digital-cloud.medallia.com/wdcus/58333/onsite/generic1605133720361.js" charset="UTF-8"></script><span></span><span id="kampyleButtonContainer"><button id="nebula_div_btn" style="border: none; background: none; right: 0px; margin-bottom: 0px;" alt="Opina" tabindex="0" class="kampyle_feedback-button kampyle_bottom-right noOutline NoFocusable" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" data-outline-override="true"><div class="kampyle_triangle"></div><div data-aut="feedback" class="kampyle_button-text kampyle_bottom">Opina</div></button></span><span><div id="KampyleAnimationContainer" style="z-index: 2147483000; border: 0px; position: fixed; display: block; height: 450px; width: 415px; top: 58px; right: -415px; transition: right 1s ease-in-out 0s;"><iframe id="kampyleFormAnimation4092" src="https://resources.digital-cloud.medallia.com/wdcus/58333/forms/4092/form1601998890249.html?formId=4092&amp;type=live&amp;referrer=https%3A%2F%2Fwww.latam.com%2Fes_co%2Ftransparencia%2Fanexo-contrato-transporte-complementario-para-colombia%2F&amp;region=digital-cloud-us&amp;displayType=animation&amp;isSeparateFormTemplateFromData=true" tabindex="-1" title="Feedback Survey" style="border: 0px; height: 450px; width: 415px; display: none;" data-default-outline="" data-default-box-shadow="" data-default-focus-data-fixed="1" class="NoFocusable" data-outline-override="true"></iframe></div></span>
+<script type="text/javascript" id="" src="//service.maxymiser.net/api/us/latam.com/9ee87e/mmapi.js"></script>
+</body></html>

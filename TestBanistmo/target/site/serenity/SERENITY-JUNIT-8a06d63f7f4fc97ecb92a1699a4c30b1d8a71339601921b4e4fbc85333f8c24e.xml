@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Revision politica datos personales" skipped="0" tests="1" time="0.02" timestamp="2020-11-12 11:06:34"><testcase name="Descarga de documento de politica de datos personales exitoso"><failure message="The page object class co.com.miprueba.test.userinterfaces.PaginaPrincipal looks dodgy:&#10;Failed to instantiate page (net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class io.appium.java_client.AppiumDriver)" type="net.thucydides.core.pages.WrongPageError">The page object class co.com.miprueba.test.userinterfaces.PaginaPrincipal looks dodgy:
+Failed to instantiate page (net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class io.appium.java_client.AppiumDriver)</failure><system-err>The page object class co.com.miprueba.test.userinterfaces.PaginaPrincipal looks dodgy:
+Failed to instantiate page (net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class io.appium.java_client.AppiumDriver)&#13;
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
